@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+main {
+  padding: 50px 15%;
+}
+
+a {
+  &, &:active, &:visited {
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+}
+
+// Navigation
+nav {
+  ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0;
+  }
+}

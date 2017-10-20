@@ -1,0 +1,11 @@
+# Navigation
+
+items:
+  - text: Meta
+    url: /
+  - text: Clients
+    url: /clients
+  - text: Employees
+    url: /employees
+  - text: Job Application
+    url: /job-application

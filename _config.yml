@@ -1,1 +1,15 @@
-title: we make services
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: wemake.services meta
+baseurl: /meta  # the subpath of your site, e.g. /blog
+url: http://wemake.services
+
+# Sass settings
+sass:
+  style: compressed

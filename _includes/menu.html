@@ -1,0 +1,11 @@
+<nav>
+  <ul>
+    {% for link in site.data.navigation.items %}
+      <li>
+        <a role="menuitem" href="{{ link.url | prepend: site.baseurl }}" title="{{ link.title }}">
+          {{ link.text }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
