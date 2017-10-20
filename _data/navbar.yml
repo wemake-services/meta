@@ -1,0 +1,14 @@
+docs_list_title: Navigation bar
+docs:
+
+- title: Home
+  url: index.html 
+  
+- title: Clients
+  url: clients.html
+
+- title: Apply for a job
+  url: job_application.html
+
+- title: Employees
+  url: employees.html
