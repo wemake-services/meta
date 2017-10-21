@@ -50,7 +50,9 @@ Each time you get promoted, the absolute value of promotion also grows.
 
 ### What does the process look like?
 
-![work_process.png](https://github.com/wemake-services/meta/blob/master/assets/work_process_revised.png)
+[![work_process.png](https://raw.githubusercontent.com/wemake-services/meta/master/assets/work_process_revised.png)]((https://raw.githubusercontent.com/wemake-services/meta/master/assets/work_process_revised.png))
+
+[Click](https://raw.githubusercontent.com/wemake-services/meta/master/assets/work_process_revised.png) to see it full size.
 
 Summing up the whole thing. First, we agree on your rate. You then receive one task at a time, and get the next once you have finished. If you find essentials gaps in the problem description, you update the status to 'Request more data', and you get assigned to another task.
 
