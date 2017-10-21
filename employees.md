@@ -64,10 +64,10 @@ If you were able to successfully tackle your problem, please fix the correspondi
 
 ### Hiring
 
-- Sign an agreement.
-- Ask for email.
-- Invite to GitLab.
-- Ask for public key.
+1. Ask for email.
+2. Ask for public key.
+3. Sign an agreement.
+4. Invite to GitLab.
 
 ### Firing
 
