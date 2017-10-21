@@ -59,4 +59,4 @@ Time & Material takes the advantage of a casual ticket system where progress and
 
 ### Let's go straight to the thing
 
-Just call us at [+7 (985) 390-29-00](tel:+79853902900), or fill out [the form](https://goo.gl/forms/fddh13DYaiEWfAVy1) and we will reach out.
+Just call fill out [the form](https://goo.gl/forms/fddh13DYaiEWfAVy1) and we will reach out.

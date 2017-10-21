@@ -1,0 +1,28 @@
+{
+  "name": "meta",
+  "version": "1.0.0",
+  "description": "All our processes explained.",
+  "main": "index.js",
+  "repository": "https://github.com/wemake-services/meta.git",
+  "author": "sobolevn <mail@sobolevn.me>",
+  "license": "MIT",
+  "scripts": {
+    "test": "remark **.md -f"
+  },
+  "devDependencies": {
+    "remark-cli": "^4.0.0",
+    "remark-lint": "^6.0.1",
+    "remark-lint-are-links-valid-alive": "^0.2.1",
+    "remark-preset-lint-recommended": "^3.0.1"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended",
+      [
+        "remark-lint-list-item-indent",
+        "space"
+      ],
+      "remark-lint-are-links-valid-alive"
+    ]
+  }
+}
