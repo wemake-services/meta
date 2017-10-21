@@ -44,7 +44,7 @@ This four issues form the majority of frictions between a client and a provider 
 
 ### Fixed Time, Fixed Budget & Flex Scope
 
-So in order to overcome the disadvantages of waterfall model, the Fixed Time, Fixed Budget, Flex Scope approach was introduced, which we believe to be the best choice for the projects you cannot leave to float freely on Scrum or other Agile rails. It was widely popularized by Basecamp developers in their "Getting Real"  (2006) bestseller book.
+So in order to overcome the disadvantages of waterfall model, the Fixed Time, Fixed Budget, Flex Scope approach was introduced, which we believe to be the best choice for the projects you cannot leave to float freely on Scrum or other Agile rails. It was widely popularized by Basecamp developers in their ["Getting Real" (2006)](https://gettingreal.37signals.com/) bestseller book.
 
 To let you have the gist of it, one could say it discovers the benefits of possibility that you get a project done on-time and on-budget but... with some features missing.
 
