@@ -29,12 +29,14 @@ So, e.g., we do not care of where are you based or where are you from, but we ce
 
 So, please note we do not care of:
 - How much you were paid on your last job;
+- Year of work experience, but we do care the experience itself;
 - What is an average compensation level for a developer in the region where you are based;
 - Where you are based;
 - Age, gender, or nationality.
 
 But we do care of:
 - your open source contribution;
+- your talks on conferences and meetups;
 - your presence and activity on StackOverflow;
 - your competency, and qualification.
 

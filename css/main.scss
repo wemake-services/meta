@@ -2,12 +2,18 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+// Constants:
+
+$padding-size: 50px;
+
+// General:
+
 * {
   box-sizing: border-box;
 }
 
 main {
-  padding: 50px 15%;
+  padding: $padding-size 15%;
 }
 
 a {
@@ -29,7 +35,7 @@ img {
 nav {
   ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-wrap: wrap;
 
     list-style: none;
@@ -46,7 +52,7 @@ nav {
 
 @media screen and (max-width: 640px) {
   main {
-    padding: 50px 5%;
+    padding: $padding-size 5% 0 5%;
   }
 
   h1 {
