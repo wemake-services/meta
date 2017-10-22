@@ -8,7 +8,7 @@
     for (var i = 0; i < headings.length; i++) {
       var h = headings[i]
       var link = '#' + h.id
-      h.innerHTML = '<a href="' + link + '"># </a>' + h.innerHTML
+      h.innerHTML = '<a href="' + link + '">' + h.innerHTML + '</a>'
     }
   }
 
