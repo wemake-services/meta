@@ -27,14 +27,14 @@ We should write code.
 ### Investment
 
 Although, we believe that every single piece of work should be paid, we won't pay you for this task.
-Count it as an investment in a future.
-It it also an investment on our side too, since every submission would be reviewed and every person will receive a feedback.
+Count it as an investment in the future.
+To make it fair it is also an investment from our side, since every submission would be reviewed and every person will receive a feedback.
 
 ### Task
 
-Here's a [link](https://github.com/wemake-services/meta/issues/7) for the test task.
+Here's a [link](https://github.com/wemake-services/meta/issues/7) to the test task.
 It looks just as any other tasks we will give you on a regular basis.
-But it's scope is bigger than usual just to test different skills.
-We try to make it easy, but it has some [pitfalls](https://github.com/wemake-services/meta/issues/5).
+But it's scope is bigger than usual just in order to test your different skills.
+We try to make this task pretty easy, but it has some hidden [pitfalls](https://github.com/wemake-services/meta/issues/5).
 
-Make sure you don't have any questions. If you do, please, [ask them](https://github.com/wemake-services/meta/issues/7) in a GitHub issue freely.
+Make sure you don't have any questions. If you do, please, freely [ask them](https://github.com/wemake-services/meta/issues/7) in a GitHub issue.
