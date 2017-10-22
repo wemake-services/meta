@@ -14,4 +14,27 @@ Please note that if you seek the position in order to master your proficiency, t
 
 ## How to apply
 
-Please fill out the [form below](https://goo.gl/forms/IlunwspnmzfYm8be2), and we will reach out soon.
+Please fill out the [form below](https://goo.gl/forms/IlunwspnmzfYm8be2), and we will reach out soon (a week, normally).
+
+You will need to attach a link to test finished test assignment in this form, please, read below.
+
+### Test assignment
+
+Testing assignment is, unfortunately, the only way to test your skills.
+We are developers, we should not talk or make interviews.
+We should write code.
+
+### Investment
+
+Although, we believe that every single piece of work should be paid, we won't pay you for this task.
+Count it as an investment in a future.
+It it also an investment on our side too, since every submission would be reviewed and every person will receive a feedback.
+
+### Task
+
+Here's a [link](https://github.com/wemake-services/meta/issues/7) for the test task.
+It looks just as any other tasks we will give you on a regular basis.
+But it's scope is bigger than usual just to test different skills.
+We try to make it easy, but it has some [pitfalls](https://github.com/wemake-services/meta/issues/5).
+
+Make sure you don't have any questions. If you do, please, [ask them](https://github.com/wemake-services/meta/issues/7) in a GitHub issue freely.

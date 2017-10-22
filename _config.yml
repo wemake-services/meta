@@ -13,3 +13,11 @@ url: http://wemake.services
 # Sass settings
 sass:
   style: compressed
+
+# Build settings
+markdown: kramdown
+kramdown:
+  # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
+  # Enable auto-generated ID's for headings
+  auto_ids: true
