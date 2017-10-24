@@ -8,10 +8,10 @@ Our internal process principles are:
 - **We pay per task (please read below).**
 - The task rate is not a subject of argument in situ.
 - **We work only remotely.**
-- You are welcome to combine a full-time job with working on us.
+- You are welcome to combine a full-time job with your job here.
 - We exercise sound judgement, so you are welcome to introduce it whenever you feel it needs to be introduced.
 - All that is interesting about the project, or might be used more then one time, must be fixed in documentation.
-- We do not spend out clients' money on educating our developers.
+- Also, it needs to be mentioned that we do not spend our clients' budgets on educating junior developers.
 
 ### Task-based payment approach
 
@@ -23,13 +23,13 @@ Basically, you have no limitation in how much you can earn, although it works bo
 
 ### How my initial hourly rate is calculated
 
-The first and most important thing we actually look at while calculating your rate is your open source projects contribution.
+The first and most important thing we actually look at when calculating your rate is your open source projects contribution and your online presence that could introduce you better than just a self-description: your Stack Overflow activity, meetup talks, tech-related publications and so on.
 
-So, e.g., we do not care of where are you based or where are you from, but we certainly will be concerned if you have an empty GitHub profile with no contribution. We are all great fans of open source projects, and we presume that people we'd love to work with are kind of the same. Basically,  the point is—if you love to code, you must have contributed somewhere—and if you don't, we would not like to add more pain to your life.
+We are all great fans of open source projects and educational activities within our spare time, and we presume that people we'd love to work with are kind of the same. Basically, the point is—if you love to code, you probably must have contributed somewhere or leave an imprint of your devotion in any other way. And if you don't, we would not like to add more pain to your life.
 
-So, please note we do not care of:
+On the other side, we do not care of:
 - How much you were paid on your last job;
-- Year of work experience, but we do care the experience itself;
+- Year of work experience (but of course we do care about the experience itself);
 - What is an average compensation level for a developer in the region where you are based;
 - Where you are based;
 - Age, gender, or nationality.
@@ -46,7 +46,7 @@ It is perfectly possible, and you are very welcome to increase your hourly rate.
 
 The most important thing that helps us to estimate things like that is, basically, how much of superiors' time you save. By being capable to close complicated tickets on your own, without requesting help of others, you decrease our expenses and we can pay you more.
 
-We also sort tasks into senior and middle ones. If you successfully tackle senior-level tasks without help of higher level developers, after some number of payment rounds (for most of the projects the payment round lasts three days) you get promoted.
+We also sort tasks into senior and middle ones. If you successfully tackle senior-level tasks without help of higher level developers, after some number of payment rounds you get promoted. We are now hammering out metrics and a clear algorythm for that, which we show you once ready. 
 
 Each time you get promoted, the absolute value of promotion also grows.
 
