@@ -46,7 +46,7 @@ When you have a casual project triangle restrictions, it means you never end up 
 
 This forms the majority of frictions between a client and a provider during a project. Apparently you might have already been exposed to them.
 
-#### Hello, wemake a service
+### Hello, wemake a service
 
 In order to overcome the disadvantages of conventional waterfall model, we introduce our own management approach. Following our naming pattern, which you might have already noticed, we call it "wemake a service". It leaves only two options for project limitation:
 
@@ -57,7 +57,7 @@ Although it might be something that does not look perfectly sensible from the fi
 
 The rule of thumb is that you cannot have both limitation options from above been set the same time. 
 
-#### How it works
+### How it works
 
 1. We design and document the first module of delivery basing on your priorities.
 2. The module is broken down to small pieces. Each one has a declared price which comprises of two parts: what we pay to a developer, and our fee.
@@ -69,7 +69,7 @@ So you basically have transparency during the whole process and can tweak even o
 
 Widely popularized FFF model, developed and described by Basecamp team in their "Getting Real" (2006) bestseller book, tricks you with an expectation of a full product being delivered in a fixed time; in our case, you know exactly what is going to be flexed, so you are not going to have hard time thinking about what to pare down. You just watch your product being delivered, having each piece added in an a self-containing, MVP way.
 
-#### Audit and maintenance
+### Audit and maintenance
 
 Audit and, e.g., corporate training are, of course, special cases when we need to have the total scope to be clearly defined, so they are managed in a different way.
 
