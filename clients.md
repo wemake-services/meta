@@ -33,7 +33,7 @@ The very first step of a project waterfall is scrupulous conception and design, 
 
 But when it comes to reality, it usually goes not as perfect as planned. Actually, even worse than that: [CHAOS report](https://www.projectsmart.co.uk/white-papers/chaos-report.pdf) claims that the average success rate is only 16.2% for software projects, meaning those that were completed on-time and on-budget. And speaking of the challenged ones, 52.7% costed 189% of their original estimate.
 
-Apart from this numbers, a client gets only and solely what is put on paper and not a tiny bit more. So it means that project plan does not imply any of the following:
+Apart from this numbers, a client gets only and solely what is put on paper. So it means that project plan does not imply any of the following:
 
 1. Additional requests from the client;
 2. Unforeseen issues being handled;
