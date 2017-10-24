@@ -5,16 +5,16 @@ layout: default
 ## Who we are looking for
 
 1. You have some open-source contribution we can take a look at.
-2. You are interested to work with us - keeping in mind the specificity of our work process that you've made yourself familiar with by reading the "Employees" part of the present handbook.
+2. You are interested to work with us—keeping in mind the specificity of our work process that you've made yourself familiar with by reading the "Employees" part of the present handbook.
 
 We are continuously open to hiring new software developers with expertise within our typical stack or close to it. So let's venture!
 
-Please note that if you seek the position in order to master your proficiency, this might probably be not the best opportunity for both of us as we don't tend to devote mush time to educate junior developers up to their good competence.
+Please note that if you seek the position in order to master your proficiency, this might probably be not the best opportunity for both of us as we don't tend to devote much time to educate junior developers up to their good competence.
 
 
 ## How to apply
 
-Please fill out the [form below](https://goo.gl/forms/IlunwspnmzfYm8be2), and we will reach out soon (a week, normally).
+Please fill out the [form](https://goo.gl/forms/IlunwspnmzfYm8be2), and we will reach out soon (a week, normally).
 
 You will need to attach a link to test finished test assignment in this form, please, read below.
 
