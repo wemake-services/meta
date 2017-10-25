@@ -30,7 +30,7 @@ And the results are [horrific](https://www.projectsmart.co.uk/white-papers/chaos
 - 52.7% of project were 189% of their original estimate
 
 Unfortunately, you can either manage scope or time with budget.
-There are different cases: sometimes scope is more important then specific scope and sometimes [Time-To-Market](https://en.wikipedia.org/wiki/Time_to_market) is the key.
+There are different cases: sometimes scope is more important and sometimes [Time-To-Market](https://en.wikipedia.org/wiki/Time_to_market) is the key.
 
 What suits you best?
 - [I just need to get things done](#i-just-need-to-get-things-done)
