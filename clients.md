@@ -50,7 +50,7 @@ There would be no excuses for us to be late.
 But ... some features would be missing.
 
 This approach is called "Fixed Time, Fixed Budget, Flex Scope".
-It was widely popularized by Basecamp developers in their ["Getting Real" (2006)](https://gettingreal.37signals.com/) bestseller book.
+It was widely popularized in the ["Getting Real"](https://gettingreal.37signals.com/) bestseller book.
 
 It might sound frightening at first, but practically it means that all parties care about bringing on a viable and effective product on time, and all the additional thoughts, non-critical issues and nonessential features are left for the next rounds for the sake of on-time and addressing delivery.
 

@@ -15,11 +15,11 @@ Our internal process principles are:
 
 ### Task-based payment approach
 
-We have adopted a not very common but still effective in its way compensation practice based on tasks closed by a person. When hiring, we agree on your hourly rate, and, when assigning a task to you, we set a price for it basing on delivery time estimation and your fixed rate.
+We have adopted a not very common but still effective in its way compensation practice based on tasks [closed](https://github.com/wemake-services/meta/wiki/Closing-issues) by a person. When hiring, we agree on your hourly rate, and, when assigning a task to you, we set a price for it basing on delivery time estimation and your fixed rate.
 
-So each task has an expressly declared price and every three days your successfully closed tasks are collected and paid for in bulk.
+So each task has an expressly declared price and every three days your [successfully completed](https://github.com/wemake-services/meta/wiki/Definition-of-%22Done%22) tasks are collected and paid for in bulk.
 
-Basically, you have no limitation in how much you can earn, although it works both ways: if you show low performance, you get less paid than you could have been.
+Basically, you have no limitation in how much you can earn, although it works both ways: if you show low performance, you get paid less than you could have been.
 
 ### How my initial hourly rate is calculated
 
@@ -46,7 +46,7 @@ It is perfectly possible, and you are very welcome to increase your hourly rate.
 
 The most important thing that helps us to estimate things like that is, basically, how much of superiors' time you save. By being capable to close complicated tickets on your own, without requesting help of others, you decrease our expenses and we can pay you more.
 
-We also sort tasks into senior and middle ones. If you successfully tackle senior-level tasks without help of higher level developers, after some number of payment rounds you get promoted. We are now hammering out metrics and a clear algorythm for that, which we show you once ready. 
+We also sort tasks into senior and middle ones. If you successfully tackle senior-level tasks without help of higher level developers, after some number of payment rounds you get promoted. We are now hammering out metrics and a clear algorythm for that, which we show you once ready.
 
 Each time you get promoted, the absolute value of promotion also grows.
 
@@ -66,15 +66,6 @@ If you find yourself stuck while delivering the task, but you are dedicated to d
 
 If you were able to successfully tackle your problem, please fix the corresponding results in documentation, or amend the project knowledge in some other suitable way, if relevant.
 
-### Hiring
+### Full description
 
-1. Ask for email.
-2. Ask for public key.
-3. Sign an agreement.
-4. Invite to GitLab.
-
-### Firing
-
-1. Deactivate the GitLab account.
-2. Remove all public keys.
-3. Close the agreement.
+This page contains only a brief description of our internal development process. Are you interested in details? It is a big luck we have all [our processes explained in details](https://github.com/wemake-services/meta/wiki).
