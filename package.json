@@ -7,7 +7,7 @@
   "author": "sobolevn <mail@sobolevn.me>",
   "license": "MIT",
   "scripts": {
-    "test": "remark **.md -f"
+    "test": "remark .gitlab/*/**.md *.md -f"
   },
   "devDependencies": {
     "remark-cli": "^4.0.0",
