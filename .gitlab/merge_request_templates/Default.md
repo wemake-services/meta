@@ -4,6 +4,8 @@
 Please, make sure you have changed the topic and also
 described briefly what have you done. Thanks!
 This merge request will be closed, if formated badly.
+Make sure, that you have double checked how to create a merge request:
+https://github.com/wemake-services/meta/wiki/Creating-a-merge-request
 -->
 
 I have done ...
@@ -11,6 +13,7 @@ I have done ...
 - [ ] The commit message follows our guidelines
 - [ ] Tests for the changes have been added
 - [ ] Docs have been added or updated
+- [ ] You have checked how to create a [merge request](https://github.com/wemake-services/meta/wiki/Creating-a-merge-request)
 
 
 ## Issues
