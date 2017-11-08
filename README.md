@@ -8,7 +8,7 @@ All our processes explained.
 ## Structure
 
 - [`wiki`](https://github.com/wemake-services/meta/wiki) contains every process we have as detailed as possible
-- `.gitlab` folder contains templates for issues and merge request
+- `.gitlab` folder contains templates for issues and merge requests
 - `./*.md` files contains pages for [our meta website](http://wemake.services/meta/)
 
 
