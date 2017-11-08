@@ -1,4 +1,4 @@
-# Change this topic to an appropriate name
+## Checklist
 
 <!--- 
 Please, make sure you have changed the topic and also
