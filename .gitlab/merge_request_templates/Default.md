@@ -43,4 +43,7 @@ Docs: https://docs.gitlab.com/ee/workflow/time_tracking.html
 
 ## Feedback
 
+<!---
 Did you encounter any other problems you want to share with us?
+Optional. Feel free to remove this section if you don't have any feedback.
+-->
