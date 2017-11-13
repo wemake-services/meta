@@ -1,6 +1,3 @@
-# Title
-
-
 ## Subject
 
 What's wrong?
