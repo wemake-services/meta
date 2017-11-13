@@ -1,6 +1,3 @@
-# Title
-
-
 ## Business task
 
 What needs to be done?
