@@ -33,11 +33,11 @@ Docs: https://docs.gitlab.com/ee/user/project/issues/closing_issues.html#via-mer
 This information is only required for statistics and analysis.
 But we need to know exactly how much time you have spent,
 please try to be as accurate as possible.
-Format is: /spent 1h
+Format is: /spend 1h
 Docs: https://docs.gitlab.com/ee/workflow/time_tracking.html
 -->
 
-/spent Xh
+/spend Xh
 /assign me
 
 
