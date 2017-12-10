@@ -8,7 +8,7 @@
 # Site settings
 title: wemake.services meta
 baseurl: /meta  # the subpath of your site, e.g. /blog
-url: http://wemake.services
+url: https://wemake.services
 
 # Sass settings
 sass:
