@@ -1304,9 +1304,9 @@ remark-cli@^4.0.0:
     remark "^8.0.0"
     unified-args "^4.0.0"
 
-remark-lint-are-links-valid-alive@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/remark-lint-are-links-valid-alive/-/remark-lint-are-links-valid-alive-0.2.1.tgz#8df4aa8017389ecf414eced1dfe4f50c2b1aa5f2"
+remark-lint-are-links-valid-alive@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-are-links-valid-alive/-/remark-lint-are-links-valid-alive-0.3.0.tgz#99a6e7744d8c7bd166bb3a1b41bd3f1218f61818"
   dependencies:
     broken-link-checker "^0.7.6"
     remark-lint-are-links-valid-core "^0.2.1"
