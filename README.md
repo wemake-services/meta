@@ -10,7 +10,7 @@ All our processes explained.
 - [`wiki`](https://github.com/wemake-services/meta/wiki) contains every process we have as detailed as possible
 - `.gitlab` folder contains templates for issues and merge requests
 - `./*.md` files contains pages for [our meta website](http://wemake.services/meta/)
-- `processes.xml` contains our business processes in the `bpmn` format, also available [online](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&nav=1&title=processes.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fwemake-services%2Fmeta%2Fmaster%2Fprocesses.xml)
+- `processes/` folder contains our business processes in the `BPMN` format
 
 
 ## Purpose
