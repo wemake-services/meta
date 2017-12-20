@@ -14,7 +14,7 @@ Please note that if you seek the position in order to master your proficiency, t
 
 ## How to apply
 
-Please fill out the [form](https://goo.gl/forms/IlunwspnmzfYm8be2), and we will reach out soon (a week, normally).
+Please fill out the [form](http://bit.ly/wemake-jobs), and we will reach out soon (a week, normally).
 
 You will need to attach a link to test finished test assignment in this form, please, read below.
 
