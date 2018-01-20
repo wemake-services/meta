@@ -13,6 +13,10 @@ Our internal process principles are:
 - All that is interesting about the project, or might be used more then one time, must be fixed in documentation.
 - Also, it needs to be mentioned that we do not spend our clients' budgets on educating junior developers.
 
+### Are you an employee yet?
+
+Then learn how you can [get a job](https://wemake.services/meta/job-application).
+
 ### Task-based payment approach
 
 We have adopted a not very common but still effective in its way compensation practice based on tasks [closed](https://github.com/wemake-services/meta/wiki/Closing-issues) by a person. When hiring, we agree on your hourly rate, and, when assigning a task to you, we set a price for it basing on delivery time estimation and your fixed rate.
