@@ -13,7 +13,7 @@ Our internal process principles are:
 - All that is interesting about the project, or might be used more then one time, must be fixed in documentation.
 - Also, it needs to be mentioned that we do not spend our clients' budgets on educating junior developers.
 
-### Are you an employee yet?
+### Are you not an employee yet?
 
 Then learn how you can [get a job](https://wemake.services/meta/job-application).
 
