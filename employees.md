@@ -15,7 +15,7 @@ Our internal process principles are:
 
 ### Not an employee yet?
 
-Then learn how you can [get a job](https://wemake.services/meta/job-application).
+Work with us! Learn how you can [get a job](https://wemake.services/meta/job-application).
 
 ### Task-based payment approach
 
