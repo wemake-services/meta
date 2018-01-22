@@ -397,6 +397,12 @@ debug@^2.1.1, debug@^2.2.0:
   dependencies:
     ms "2.0.0"
 
+debug@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
+  dependencies:
+    ms "2.0.0"
+
 deep-extend@~0.4.0:
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.4.2.tgz#48b699c27e334bf89f10892be432f6e4c7d34a7f"
@@ -439,7 +445,7 @@ errno@~0.1.4:
   dependencies:
     prr "~0.0.0"
 
-error-ex@^1.2.0:
+error-ex@^1.3.1:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/error-ex/-/error-ex-1.3.1.tgz#f855a86ce61adc4e8621c3cda21e7a7612c3a8dc"
   dependencies:
@@ -880,6 +886,10 @@ jsbn@~0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/jsbn/-/jsbn-0.1.1.tgz#a5e654c2e5a2deb5f201d96cefbca80c0ef2f513"
 
+json-parse-better-errors@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/json-parse-better-errors/-/json-parse-better-errors-1.0.1.tgz#50183cd1b2d25275de069e9e71b467ac9eab973a"
+
 json-schema@0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/json-schema/-/json-schema-0.2.3.tgz#b480c892e59a2f05954ce727bd3f2a4e882f9e13"
@@ -893,6 +903,10 @@ json-stable-stringify@^1.0.1:
 json-stringify-safe@~5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
+
+json5@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/json5/-/json5-0.5.1.tgz#1eade7acc012034ad84e2396767ead9fa5495821"
 
 jsonify@~0.0.0:
   version "0.0.0"
@@ -1178,7 +1192,7 @@ parse-domain@~0.2.0:
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/parse-domain/-/parse-domain-0.2.2.tgz#188989b1e2e7398bff3c4f4fd7dca157eb51fac1"
 
-parse-entities@^1.0.2:
+parse-entities@^1.0.2, parse-entities@^1.1.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/parse-entities/-/parse-entities-1.1.1.tgz#8112d88471319f27abae4d64964b122fe4e1b890"
   dependencies:
@@ -1198,11 +1212,12 @@ parse-glob@^3.0.4:
     is-extglob "^1.0.0"
     is-glob "^2.0.0"
 
-parse-json@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/parse-json/-/parse-json-2.2.0.tgz#f480f40434ef80741f8469099f8dea18f55a4dc9"
+parse-json@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/parse-json/-/parse-json-4.0.0.tgz#be35f5425be1f7f6c747184f98a788cb99477ee0"
   dependencies:
-    error-ex "^1.2.0"
+    error-ex "^1.3.1"
+    json-parse-better-errors "^1.0.1"
 
 parse5@^3.0.2:
   version "3.0.2"
@@ -1296,13 +1311,13 @@ regex-cache@^0.4.2:
   dependencies:
     is-equal-shallow "^0.1.3"
 
-remark-cli@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-cli/-/remark-cli-4.0.0.tgz#bb84c14ffeb6f5b658eff4dfbb77cdd7775bab73"
+remark-cli@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/remark-cli/-/remark-cli-5.0.0.tgz#9feefd06474f3d0ff132df21b5334c546df12ab6"
   dependencies:
     markdown-extensions "^1.1.0"
-    remark "^8.0.0"
-    unified-args "^4.0.0"
+    remark "^9.0.0"
+    unified-args "^5.0.0"
 
 remark-lint-are-links-valid-alive@^0.3.0:
   version "0.3.0"
@@ -1469,9 +1484,9 @@ remark-message-control@^4.0.0:
     unist-util-visit "^1.0.0"
     vfile-location "^2.0.0"
 
-remark-parse@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-parse/-/remark-parse-4.0.0.tgz#99f1f049afac80382366e2e0d0bd55429dd45d8b"
+remark-parse@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/remark-parse/-/remark-parse-5.0.0.tgz#4c077f9e499044d1d5c13f80d7a98cf7b9285d95"
   dependencies:
     collapse-white-space "^1.0.2"
     is-alphabetical "^1.0.0"
@@ -1479,7 +1494,7 @@ remark-parse@^4.0.0:
     is-whitespace-character "^1.0.0"
     is-word-character "^1.0.0"
     markdown-escapes "^1.0.0"
-    parse-entities "^1.0.2"
+    parse-entities "^1.1.0"
     repeat-string "^1.5.4"
     state-toggle "^1.0.0"
     trim "0.0.1"
@@ -1510,9 +1525,9 @@ remark-preset-lint-recommended@^3.0.1:
     remark-lint-no-unused-definitions "^1.0.0"
     remark-lint-ordered-list-marker-style "^1.0.0"
 
-remark-stringify@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/remark-stringify/-/remark-stringify-4.0.0.tgz#4431884c0418f112da44991b4e356cfe37facd87"
+remark-stringify@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/remark-stringify/-/remark-stringify-5.0.0.tgz#336d3a4d4a6a3390d933eeba62e8de4bd280afba"
   dependencies:
     ccount "^1.0.0"
     is-alphanumeric "^1.0.0"
@@ -1529,12 +1544,12 @@ remark-stringify@^4.0.0:
     unherit "^1.0.4"
     xtend "^4.0.1"
 
-remark@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/remark/-/remark-8.0.0.tgz#287b6df2fe1190e263c1d15e486d3fa835594d6d"
+remark@^9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/remark/-/remark-9.0.0.tgz#c5cfa8ec535c73a67c4b0f12bfdbd3a67d8b2f60"
   dependencies:
-    remark-parse "^4.0.0"
-    remark-stringify "^4.0.0"
+    remark-parse "^5.0.0"
+    remark-stringify "^5.0.0"
     unified "^6.0.0"
 
 remove-trailing-separator@^1.0.1:
@@ -1860,23 +1875,24 @@ unherit@^1.0.4:
     inherits "^2.0.1"
     xtend "^4.0.1"
 
-unified-args@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/unified-args/-/unified-args-4.0.0.tgz#8d9b9b8ad347beb37f430562a62c4d361b42220f"
+unified-args@^5.0.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/unified-args/-/unified-args-5.1.0.tgz#1889200e072998a662e6e84d817d6f4b5f448dd1"
   dependencies:
     camelcase "^4.0.0"
     chalk "^2.0.0"
     chokidar "^1.5.1"
+    json5 "^0.5.1"
     minimist "^1.2.0"
     text-table "^0.2.0"
-    unified-engine "^4.0.0"
+    unified-engine "^5.1.0"
 
-unified-engine@^4.0.0:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/unified-engine/-/unified-engine-4.0.1.tgz#9692aa97fd5c4ec36889779e12514bef8e863fc3"
+unified-engine@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/unified-engine/-/unified-engine-5.1.0.tgz#30db83bcc76c821f773bb5a8a491aa0e2471e3d1"
   dependencies:
     concat-stream "^1.5.1"
-    debug "^2.2.0"
+    debug "^3.1.0"
     fault "^1.0.0"
     fn-name "^2.0.1"
     glob "^7.0.3"
@@ -1886,9 +1902,10 @@ unified-engine@^4.0.0:
     is-object "^1.0.1"
     js-yaml "^3.6.1"
     load-plugin "^2.0.0"
-    parse-json "^2.2.0"
+    parse-json "^4.0.0"
     to-vfile "^2.0.0"
     trough "^1.0.0"
+    unist-util-inspect "^4.1.2"
     vfile-reporter "^4.0.0"
     vfile-statistics "^1.1.0"
     x-is-function "^1.0.4"
@@ -1916,6 +1933,12 @@ unified@^6.0.0:
 unist-util-generated@^1.1.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/unist-util-generated/-/unist-util-generated-1.1.1.tgz#99f16c78959ac854dee7c615c291924c8bf4de7f"
+
+unist-util-inspect@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/unist-util-inspect/-/unist-util-inspect-4.1.2.tgz#440520d0c7911f1a41eb5f568ef9b2efc3c29363"
+  dependencies:
+    is-empty "^1.0.0"
 
 unist-util-modify-children@^1.0.0:
   version "1.1.1"
