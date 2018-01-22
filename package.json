@@ -10,7 +10,7 @@
     "test": "remark .gitlab/*/**.md *.md -f"
   },
   "devDependencies": {
-    "remark-cli": "^4.0.0",
+    "remark-cli": "^5.0.0",
     "remark-lint": "^6.0.1",
     "remark-lint-are-links-valid-alive": "^0.3.0",
     "remark-preset-lint-recommended": "^3.0.1"
