@@ -18,6 +18,19 @@ All our processes explained.
 This is a source code for one of our websites, which states our internal process to our customers and employees.
 
 We try to make them 100% transparent for every member of a project.
+Wait, what? Isn't it suppose to be super secret?
+
+Well, no. We believe that by making everything transperent everyone wins:
+
+1. Clients know what to expect from us
+2. Employees know what their work would be like
+
+But what if someone will just copy this process?
+We will be actually happy to know that. That's a situation when everyone wins too:
+
+1. Our collegues will have a nice working business
+2. We would exchnage our experience in an open manner
+3. Clients will recieve a software of high quality
 
 
 ## Contributing
