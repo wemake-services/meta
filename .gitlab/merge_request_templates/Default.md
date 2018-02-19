@@ -38,7 +38,6 @@ Docs: https://docs.gitlab.com/ee/workflow/time_tracking.html
 -->
 
 /spend Xh
-/assign me
 
 
 ## Feedback
