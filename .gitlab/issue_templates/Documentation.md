@@ -1,8 +1,8 @@
 ## Problem
 
-What's wrong?
-Why is it a problem?
-Who's the original author?
+### What's wrong?
+
+### Why is it a problem?
 
 /estimate Xh
 /label ~documentation
