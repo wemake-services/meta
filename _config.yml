@@ -21,3 +21,9 @@ kramdown:
   input: GFM
   # Enable auto-generated ID's for headings
   auto_ids: true
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from

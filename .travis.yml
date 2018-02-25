@@ -1,19 +1,10 @@
 sudo: false
 
-language: node_js
-
-node_js:
-  - 8
-
-cache:
-  directories:
-    - node_modules
-
-install:
-  - yarn install
+language: ruby
 
 script:
-  - yarn test
+  - jekyll build --strict_front_matter --safe
+  - jekyll doctor --safe
 
 notifications:
   email:
