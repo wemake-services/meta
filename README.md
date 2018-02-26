@@ -19,7 +19,7 @@ You can have a look at how we work.
 
 - [`wiki`](https://github.com/wemake-services/meta/wiki) contains every process we have as detailed as possible
 - `.gitlab` folder contains templates for issues and merge requests
-- `processes/` folder contains our business processes in the `BPMN` format
+- [`processes/`](https://github.com/wemake-services/meta/tree/master/processes) folder contains our business processes in the `BPMN` format
 
 
 ## Purpose
