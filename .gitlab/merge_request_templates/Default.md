@@ -10,6 +10,7 @@ https://github.com/wemake-services/meta/wiki/Creating-a-merge-request
 
 I have done ...
 
+- [ ] This commits targets only one specific issue
 - [ ] The commit message follows our guidelines
 - [ ] Tests for the changes have been added
 - [ ] Docs have been added or updated
@@ -46,3 +47,6 @@ Docs: https://docs.gitlab.com/ee/workflow/time_tracking.html
 Did you encounter any other problems you want to share with us?
 Optional. Feel free to remove this section if you don't have any feedback.
 -->
+
+
+<!--- Thank you for you contribution! -->
