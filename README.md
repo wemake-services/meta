@@ -6,8 +6,13 @@
 
 We love Python and Elixir. We use JavaScript.
 
-This project contains the specification of all our internal processes.
-We try to make them 100% transparent for every member of a project.
+
+## Repeatable Software Development Process
+
+It is a home and the only source of truth for our [`Repeatable Software Development Process`](https://github.com/wemake-services/meta/wiki/Repeatable-Software-Development-Process) (also knows as [`RSDP`](https://github.com/wemake-services/meta/wiki/Repeatable-Software-Development-Process)).
+
+Here we document every possible event and action in our company. 
+You can have a look at how we work.
 
 
 ## Structure
