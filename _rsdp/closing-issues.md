@@ -18,8 +18,8 @@ See what ["To complete an issue"](https://wemake.services/meta/rsdp/definition-o
 2. Implement a simple test to illustrate the desired functionality
 3. Write some code to complete this task
 4. Write some additional tests to cover edge cases and some possible errors
-5. Write documentation about what have you done and **why** you have done it this wayhttps://wemake.services/meta/rsdp/creating-merge-requests)
-
+5. Write documentation about what have you done and **why** you have done it this way
+6. [Submit a merge request](https://wemake.services/meta/rsdp/creating-merge-requests)
 
 ## How to fix a Bug
 
