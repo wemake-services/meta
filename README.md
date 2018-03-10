@@ -9,15 +9,15 @@ We love Python and Elixir. We use JavaScript.
 
 ## Repeatable Software Development Process
 
-It is a home and the only source of truth for our [`Repeatable Software Development Process`](https://github.com/wemake-services/meta/wiki/Repeatable-Software-Development-Process) (also knows as [`RSDP`](https://github.com/wemake-services/meta/wiki/Repeatable-Software-Development-Process)).
+It is a home and the only source of truth for our [`Repeatable Software Development Process`](https://wemake.services/meta/rsdp) (also knows as [`RSDP`](https://wemake.services/meta/rsdp)).
 
-Here we document every possible event and action in our company. 
+Here we document every possible event and action in our company.
 You can have a look at how we work.
 
 
 ## Structure
 
-- [`wiki`](https://github.com/wemake-services/meta/wiki) contains every process we have as detailed as possible
+- [`meta website`](https://wemake.services/meta) contains every process we have as detailed as possible
 - [`.gitlab`](https://github.com/wemake-services/meta/tree/master/.gitlab) folder contains templates for issues and merge requests
 - [`processes/`](https://github.com/wemake-services/meta/tree/master/processes) folder contains our business processes in the `BPMN` format
 

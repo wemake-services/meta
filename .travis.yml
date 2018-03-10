@@ -2,12 +2,22 @@ sudo: false
 
 language: ruby
 
+cache:
+  bundler: true
+  directories:
+    - node_modules
+
+before_install:
+  - nvm install
+
 install:
   - bundle install
+  - yarn install
 
 script:
   - jekyll build --strict_front_matter --safe
   - jekyll doctor --safe
+  - yarn test
 
 notifications:
   email:

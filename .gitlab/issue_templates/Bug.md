@@ -29,4 +29,4 @@ Commit hash:
 
 ## How to fix
 
-Please, read below: [how to fix a bug](https://github.com/wemake-services/meta/wiki/Closing-issues#how-to-fix-a-bug).
+Please, read below: [how to fix a bug](https://wemake.services/meta/rsdp/closing-issues#how-to-fix-a-bug).

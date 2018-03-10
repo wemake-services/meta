@@ -10,6 +10,11 @@ title: wemake.services meta
 baseurl: /meta  # the subpath of your site, e.g. /blog
 url: https://wemake.services
 
+collections:
+  rsdp:
+    output: true
+    permalink: /:collection/:name/
+
 # Sass settings
 sass:
   style: compressed

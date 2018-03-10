@@ -1,0 +1,98 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Constants:
+
+$padding-size: 50px;
+$padding-width: 15%;
+
+// General:
+
+* {
+  box-sizing: border-box;
+}
+
+main {
+  padding: $padding-size $padding-width;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  a {
+    text-decoration: none;
+  }
+}
+
+a {
+  &, &:active, &:visited {
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+}
+
+p {
+  img {
+    margin: 0 auto;
+  }
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+// Navigation
+
+nav {
+  ul {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      padding: 0 5px;
+    }
+  }
+}
+
+.toc__component {
+  transition: opacity 1s ease-out;
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+
+  &.visible {
+    opacity: 1;
+    height: auto;
+  }
+}
+
+// Comments
+
+.comments__component {
+  padding: $padding-size $padding-width;
+}
+
+// Responsive layout
+
+@media screen and (max-width: 640px) {
+  main {
+    padding: $padding-size 5% 0 5%;
+  }
+
+  h1 {
+    font-size: 3.242rem;
+    line-height: 3.5rem;
+  }
+
+  h2 {
+    font-size: 2.128rem;
+    line-height: 2.3rem;
+  }
+}

@@ -12,4 +12,4 @@
 
 ## How to complete
 
-Please, read below: [making decisions](https://github.com/wemake-services/meta/wiki/Making-decisions).
+Please, read below: [making decisions](https://wemake.services/meta/rsdp/making-decisions).
