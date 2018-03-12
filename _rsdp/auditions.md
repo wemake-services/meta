@@ -29,7 +29,7 @@ project is doing. We will cover the most important things in a one page review:
 
 Time and cost is fixed.
 It is a one day audition.
-It costs 30.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/300000) to see the same in dollars).
+It costs 30.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/30000) to see the same in dollars).
 
 
 ## Technical audition
@@ -46,7 +46,8 @@ How it works:
 2. We agree about what bug is
 3. We create as many bugs as we can in a single day
 
-We is it helpful? Because we are motivated to find many bugs.
+Why is it helpful? Because we are motivated to find many bugs.
+We charge for them.
 And you are interested in receiving as many bug reports as possible.
 
 Why is it only one day? Because we don't want your development process to stop.
@@ -56,6 +57,10 @@ Our standard bug definition:
 2. Something is not clear from the docs and the code itself
 3. Code style issue
 4. Not following best-practices
+
+Time is fixed. Bug cost if fixed,
+It is a one day audition.
+It costs 1.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/1000) to see the same in dollars).
 
 
 ## I want an audition!
