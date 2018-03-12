@@ -1,6 +1,6 @@
 ---
 layout: process
-title: "Auditions"
+title: "Audits"
 ---
 
 Have you ever been in a situation when your software project does not work and
@@ -11,15 +11,15 @@ No one was informing business owners that code quality is low,
 architecture is falling apart and not suited for any extensions.
 
 The cheapest way to prevent problems is to prevent them as early as possible.
-That's why we recommend you to do auditions **from the very
+That's why we recommend you to do audits **from the very
 first month** when the projects begins.
 
-There are two types of auditions we can help you with.
+There are two types of audits we can help you with.
 
 
-## Audition for business
+## Audit for business
 
-This audition is required when you as business owner is not sure about how the
+This audit is required when you as business owner is not sure about how the
 project is doing. We will cover the most important things in a one page review:
 
 1. Is code quality acceptable?
@@ -28,16 +28,16 @@ project is doing. We will cover the most important things in a one page review:
 4. Will you be able to easily change the team in case you need? See what [vendor lock](https://en.wikipedia.org/wiki/Vendor_lock-in) is
 
 Time and cost is fixed.
-It is a one day audition.
+It is a one day audit.
 It costs 30.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/30000) to see the same in dollars).
 
 
-## Technical audition
+## Technical audit
 
-This audition is required for the technical teams.
+This audit is required for the technical teams.
 They can learn a lot from it, or just fix some bugs they have not seen for some reason.
 
-We only charge you for the found bugs. No bugs found == free audition.
+We only charge you for the found bugs. No bugs found == free audit.
 
 How it works:
 
@@ -59,11 +59,11 @@ Our standard bug definition:
 4. Not following best-practices
 
 Time is fixed. Bug cost if fixed,
-It is a one day audition.
+It is a one day audit.
 It costs 1.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/1000) to see the same in dollars).
 
 
-## I want an audition!
+## I want an audit!
 
 Contact us: [`contact@wemake.services`](mailto:contact@wemake.services)
 
