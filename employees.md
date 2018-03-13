@@ -1,6 +1,6 @@
 ---
 redirect_to:
-- /meta/rsdp/employees
+- /rsdp/employees
 ---
 
 <!--- This page should stay here for the legacy purposes. -->
