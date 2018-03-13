@@ -50,7 +50,6 @@ Why is it helpful? Because we are motivated to find many bugs.
 We charge for them.
 And you are interested in receiving as many bug reports as possible.
 
-Why is it only one day? Because we don't want your development process to stop.
 Our standard bug definition:
 
 1. Bad design decisions
@@ -58,7 +57,9 @@ Our standard bug definition:
 3. Code style issue
 4. Not following best-practices
 
-Time is fixed. Bug cost if fixed,
+Why is it only one day? Because we don't want your development process to stop.
+
+Time is fixed. Bug cost is fixed.
 It is a one day audit.
 It costs 1.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/1000) to see the same in dollars).
 
