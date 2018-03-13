@@ -8,7 +8,7 @@ title: "Access to the project"
 Sometimes outsource companies tend to hide the results of their work
 for as long as they can.
 
-This allows them to control the client. "We won't give you want you want until you do want we want".
+This allows them to control the client. "We won't give you want you until you do want we want".
 It also allows these unfair companies to bargain about the price of their work.
 Moreover, there is a high chance that quality of this project will be low.
 And the client will find it out only when the project will be released and
@@ -27,7 +27,7 @@ Everything is opened:
 So, why don't we hide our work?
 
 Because it does not make sense. Why should we hide something that would be
-public at some point of time anyway? Why should we just delay the possible
+public at some point in time anyway? Why should we just delay the possible
 problems instead of fixing them in the beginning?
 
 
@@ -36,12 +36,12 @@ problems instead of fixing them in the beginning?
 
 We are using GitLab to manage and store our project.
 You will have an access to the project since the first day.
-You will never lost an access to the project.
+You will never lose an access to the project.
 
 Only **one** person from the client's side is allowed to access the project.
 It is done with strictly one purpose: to simplify communications inside the project.
 
-You will need to register an new GitLab account account or to provide an existing one.
+You will need to register a new GitLab account or to provide an existing one.
 
 
 ## Registration

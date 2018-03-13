@@ -15,4 +15,4 @@ We will not work with the clients or projects from the following spheres:
 7. Porno
 8. Microcredits
 
-This list does not cover all cases. We may decline a project even its topic is not in the list.
+This list does not cover all cases. We may decline a project even its topic is not on the list.

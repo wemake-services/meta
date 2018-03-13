@@ -21,20 +21,20 @@ You will need to attach a link to test finished test assignment in this form, pl
 
 ### Test assignment
 
-Testing assignment is, unfortunately, the only way to test your skills.
+A testing assignment is, unfortunately, the only way to test your skills.
 We are developers, we should not talk or make interviews.
 We should write code.
 
 ### Investment
 
-Although, we believe that every single piece of work should be paid, we won't pay you for this task.
+Although we believe that every single piece of work should be paid, we won't pay you for this task.
 Count it as an investment in the future.
-To make it fair it is also an investment from our side, since every submission would be reviewed and every person will receive a feedback.
+To make it fair it is also an investment from our side since every submission would be reviewed and every person will receive a feedback.
 
 ### Task
 
 Here's a [link](https://github.com/wemake-services/meta/issues/7) to the test task.
-It looks just as any other tasks we will give you on a regular basis.
+It looks just like any other tasks we will give you on a regular basis.
 But it's scope is bigger than usual just in order to test your different skills.
 We try to make this task pretty easy, but it has some hidden pitfalls.
 

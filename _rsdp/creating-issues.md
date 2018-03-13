@@ -3,7 +3,7 @@ layout: process
 title: "Creating issues"
 ---
 
-All our work and communication happens in the project's issues.
+All our work and communication happens on the project's issues.
 Since we only pay for [closed issues](https://wemake.services/meta/rsdp/closing-issues) it is very simple for all members of the project to understand: no one will do anything without an opened issue.
 Since you will not be paid for it.
 
@@ -22,9 +22,9 @@ Head to the next section to learn more.
 ## What each issue must contain?
 
 0. All issues must follow the same templates
-1. All issues must be self contained. Reader should only have your issue to know what do you want and how do you want it done
+1. All issues must be self-contained. A reader should only have your issue to know what do you want and how do you want it done
 2. Each issue must have two roles: reporter and assignee, it does not matter if one person does cover two roles
-3. Each issue must contain estimated time, without estimated time you will not get paid for completing this issue. Note that **only architect** can set and approve estimated time
+3. Each issue must contain the estimated time, without estimated time you will not get paid for completing this issue. Note that **only architect** can set and approve estimated time
 4. Each issue must have a single label (this is what is called a type)
 
 ### Bug
@@ -46,8 +46,8 @@ When to open this type of issues?
 
 Each [feature](https://github.com/wemake-services/meta/blob/master/.gitlab/issue_templates/Feature.md) must contain several things:
 
-1. Business task, why this feature is even required? This is the most important part. Without understanding the business task it is impossible to resolve a feature
-2. Are there any technical constrains? Something we should care about
+1. A business task, why this feature is even required? This is the most important part. Without understanding the business task it is impossible to resolve a feature
+2. Is there any technical constraints? Something we should care about
 
 
 ### Documentation

@@ -16,7 +16,7 @@ But when you pass the code to another developer some hidden issues start to unco
 - How to run this program?
 - What does this piece of code do?
 - Why did you need this hack?
-- It is safe to use this method?
+- Is it safe to use this method?
 
 It is a matter of documentation to answer these questions.
 
@@ -38,9 +38,9 @@ And since we do not use any modern (or even old-fashioned) chats or messengers, 
 Well, situations like this may and will happen. How do we handle them:
 
 0. You got stuck, add "documentation" label to the current issue and ping [your architect](https://wemake.services/meta/rsdp/roles-and-responsibilities) with the request to fix some particular parts that are unclear right now. You will be [assigned a new issue](https://wemake.services/meta/rsdp/how-tasks-are-assigned)
-1. Architect will find the person who [is blamed](https://gitlab.com/gitlab-org/gitlab_git/blame/master/README.md) for this piece of code
-2. Architect will discuss everything he needs to know in the related issues with other developers
-3. Architect will update the documentation to answer all your questions
+1. The architect will find the person who [is blamed](https://gitlab.com/gitlab-org/gitlab_git/blame/master/README.md) for this piece of code
+2. The architect will discuss everything he needs to know in the related issues with other developers
+3. The architect will update the documentation to answer all your questions
 4. If you are satisfied remove "documentation" label, say "Thanks! 👍"
 5. Continue to solve this issue as a normal one, when your new current issue will be solved
 

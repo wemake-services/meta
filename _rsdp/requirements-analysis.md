@@ -24,11 +24,16 @@ It will contain several parts.
 
 ### Glossary
 
-TODO(@sobolevn)
+A glossary is one of the most important parts of the requirements analysis.
+It is also the easiest part.
+
+The glossary is a list of terms used in the project's requirements.
+For example, it allows understanding what `GOST` is,
+why a user is not the same person as a supervisor. And so on.
 
 ### Requirements prioritization
 
-We both know that some requirements are more important that the others.
+We both know that some requirements are more important than the others.
 But we need to know each and why. We use `MoSCow` method to prioritize requirements.
 This method is based on four main categories: `must`, `should`, `could`, and `won't`.
 Here's an example of how it looks like:
@@ -37,7 +42,7 @@ Here's an example of how it looks like:
 |----------------------------------------------------------------|:--------:|
 | Multiple message providers could be supported                  |   Could  |
 | Authenticated users must be able to send private messages      |   Must   |
-| Authenticated users must be able to logout                     |   Must   |
+| Authenticated users must be able to log out                    |   Must   |
 | There should be a notification about incoming private message  |  Should  |
 | Encrypted private messages won't be supported                  |   Won't  |
 
@@ -55,7 +60,7 @@ We never cut off `must` features, we cut off `should` features only if there is 
 "[User stories](https://en.wikipedia.org/wiki/User_story)" is a way to specify requirements without wasting much time and resources on the process. User story (in our interpretation) is a valid [`gherkin`](https://github.com/cucumber/cucumber/wiki/Gherkin) file, that will be later used for acceptance testing.
 
 Yes, we write requirements that later will be used as tests for the software we build.
-These files serves two goals: to specify user stories and to **verify** them later.
+These files serve two goals: to specify user stories and to **verify** them later.
 In this case, it is very hard to misunderstand each other.
 And you can be sure that the software works and does what you need.
 
@@ -87,7 +92,20 @@ You can have a look at our the real `bpmn` examples [here](https://github.com/we
 
 ### Non-functional requirements
 
-TODO(@sobolevn)
+A non-functional requirement is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviors.
+Non-functional requirements might be tricky. Sometimes clients what to have:
+
+- Fault-tolerance server
+- Fast application
+- Clean code
+
+But, as we already know, all requirements must be verifiable.
+So, we will be able to perform tests and measure the results.
+Let's change the way we define them to make them measurable:
+
+- A server should be scaled by the factor of 3, uptime should be over 98%
+- An application must respond to 90% of requests not longer than in 130 ms
+- Code must follow our style-guide, it should also pass an external audit
 
 ### Milestones
 

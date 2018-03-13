@@ -12,7 +12,7 @@ So, these terms can be freely used as synonyms.
 ## When to create a merge request
 
 There are only two reasons to create a merge request:
-1. You are done, code is ready to be merged into `master`
+1. You are done, a code is ready to be merged into `master`
 2. You are stuck. You don't know what to do next. Nothing works and you want to ask for an advice
 
 When the first use-case is common, the second one is critical to the long-term happiness and a project success.
@@ -23,7 +23,7 @@ So, whenever you find yourself in a situation when you are completely stuck - cr
 
 ## How to create a merge request
 
-0. You were assigned with some issue. You have created a separate branch to work on it
+0. You were assigned to some issue. You have created a separate branch to work on it
 1. When you are ready to push your changes, you will need to create a remote branch with the same name as your local branch
 2. Push your code to this remote branch
 3. Then you will be able to create a merge request. You will see something like:
@@ -43,10 +43,10 @@ So, whenever you find yourself in a situation when you are completely stuck - cr
 Merge request heading consists of three main parts: conditional `WIP:`, `${ISSUE_NUMBER}`, explaining heading.
 You should only use `WIP:` when this merge request [is not ready to be merged yet](https://wemake.services/meta/rsdp/creating-merge-requests#when-to-create-a-merge-request).
 Then, you should place your issue number.
-Merge request heading must have a sane name, very closed to the one used for the original issue.
+Merge request heading must have a sane name, very close to the one used for the original issue.
 
 All in one: `WIP: 823 Adds a "remember me" to user registration form`.
-When your merge request be ready, you will need to remove `WIP:` part.
+When your merge request is ready, you will need to remove `WIP:` part.
 
 
 ## Merge request template
@@ -70,7 +70,7 @@ If you found yourself in a situation when you can not check some of the items - 
 
 **Required.**
 
-You should clearly specify which issue this merge request will close, when merged.
+You should clearly specify which issue this merge request will close when merged.
 You could also specify what issues this merge request references. Some old issues maybe?
 [Format](https://docs.gitlab.com/ee/user/project/issues/closing_issues.html#via-merge-request) is very simple: `closes #issue_number` to close some specific issue. Use `refs #issue_number` to reference an issue.
 

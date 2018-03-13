@@ -3,10 +3,10 @@ layout: process
 title: "Closing issues"
 ---
 
-There are two types of issues we use for development cycle: `Bug` and `Feature`. Are are [other labels](https://wemake.services/meta/rsdp/configuring-new-gitlab-project#configuring-issue-labels) for different purposes however.
+There are two types of issues we use for development cycle: `Bug` and `Feature`. There are [other labels](https://wemake.services/meta/rsdp/configuring-new-gitlab-project#configuring-issue-labels) for different purposes, however.
 
-Any time you got stuck or don't know how somethings works: remember, that a documentation issue.
-You [need to state that](https://wemake.services/meta/rsdp/how-tasks-are-assigned#i-can-not-find-any-information-in-any-of-these-sources). Task will be reassigned for you. Documentation will be updated shortly. And you will continue to work on it once your new current task will be solved.
+Anytime you got stuck or don't know how something works: remember, that a documentation issue.
+You [need to state that](https://wemake.services/meta/rsdp/how-tasks-are-assigned#i-can-not-find-any-information-in-any-of-these-sources). Task will be reassigned to you. Documentation will be updated shortly. And you will continue to work on it once your new current task will be solved.
 
 See what ["To complete an issue"](https://wemake.services/meta/rsdp/definition-of-done) is.
 
@@ -27,7 +27,7 @@ See what ["To complete an issue"](https://wemake.services/meta/rsdp/definition-o
 1. Create a new branch named `issue-${ISSUE_NUMBER}`
 2. Write a test that is failing to validate that this bug exists
     1. If you can not recreate this bug, feel free to submit just a test with clear name and documentation linking to this issue
-    2. If test fails indeed, continue to the next step
+    2. If a test fails indeed, continue to the next step
 3. Now, when you have a regression test ready - create a fix for that bug
 4. Write any additional tests if needed
 5. Document in docstrings in general documentation what was wrong

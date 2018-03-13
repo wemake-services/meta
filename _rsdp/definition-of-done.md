@@ -5,7 +5,7 @@ title: "Definition of \"Done\""
 
 Since we pay per finished (or **done**) task, it should be obvious for every person in the team: is this task done or not?
 
-So, we need specify a strict number of rules to define "Done" state.
+So, we need to specify a strict number of rules to define "Done" state.
 
 
 ## Existing approaches
@@ -17,7 +17,7 @@ There are also other definitions around the web. I (@sobolevn) personally really
 
 ## Our definition
 
-Task is considered done **only when** the corresponding ticket is **closed**.
+A task is considered done **only when** the corresponding ticket is **closed**.
 
 ### Prerequisites
 
@@ -32,15 +32,15 @@ Since tasks are only closed by a merge request, it may require several steps:
 - You have created a new branch following [our standards](https://wemake.services/meta/rsdp/closing-issues)
 - You have added some code to fix a bug or to implement some feature
 - You have added new tests to cover new functionality or regression tests to confirm that bug is fixed
-- You have added comments to illustrate your design decision in source code
+- You have added comments to illustrate your design decision in a source code
 - You have updated project documentation if required
 - You have updated installation instructions or build tools if required
 - You may leave some `TODOs` for future development if required
 - You have created a merge request with the [proper message](https://github.com/wemake-services/issue-templates/blob/master/.gitlab/merge_request_templates/Default.md) from your branch into `master`
 - You have filled in every required piece of information in the template, such as: actions you did, time spent, issue to close
-- All the preconfigured `CI` stages passes: existing tests, style and quality checks pass
+- All the preconfigured `CI` stages pass: existing tests, style and quality checks pass
 - Your code passes a code review from one or several other developers including at least one architect
-- Your code have been merged into `master`
+- Your code has been merged into `master`
 
 It may also require multiple iterations for you:
 
