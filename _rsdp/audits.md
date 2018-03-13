@@ -12,22 +12,22 @@ architecture is falling apart and not suited for any extensions.
 
 The cheapest way to prevent problems is to prevent them as early as possible.
 That's why we recommend you to do audits **from the very
-first month** when the projects begins.
+the first month** when the projects begin.
 
 There are two types of audits we can help you with.
 
 
 ## Audit for business
 
-This audit is required when you as business owner is not sure about how the
-project is doing. We will cover the most important things in a one page review:
+This audit is required when you as a business owner is not sure about how the
+project is doing. We will cover the most important things in a one-page review:
 
 1. Is code quality acceptable?
-2. Will you system allow further changes?
+2. Will your system allow further changes?
 3. How well it works
 4. Will you be able to easily change the team in case you need? See what [vendor lock](https://en.wikipedia.org/wiki/Vendor_lock-in) is
 
-Time and cost is fixed.
+Time and cost are fixed.
 It is a one day audit.
 It costs 30.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/30000) to see the same in dollars).
 
@@ -42,7 +42,7 @@ We only charge you for the found bugs. No bugs found == free audit.
 How it works:
 
 0. You invite us to your project (Github/Gitlab/Bitbucket/etc)
-1. You allows us to create issues in your bug tracker
+1. You allow us to create issues in your bug tracker
 2. We agree about what bug is
 3. We create as many bugs as we can in a single day
 
@@ -66,4 +66,3 @@ It costs 1.000 rubles ([click here](http://www.countrycurrencyrates.com/en/conve
 ## I want an audit!
 
 Contact us: [`contact@wemake.services`](mailto:contact@wemake.services)
-
