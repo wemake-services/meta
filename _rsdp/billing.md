@@ -21,14 +21,13 @@ The resulting price for each task will be calculated as:
 task_cost = task_estimated_hours * assignee_rate
 ```
 
+
 ## Adjustments
 
-We also take extra 100% for any kind of work we do as a company's profit.
-For example, we closed 1 task with the 50$ subtotal cost. The final result would be:
+We pay our developers as salaries only half of the money you pay us.
+That's how we make money as a company.
 
-```python
-final_cost = tasks_subtotal * 2
-```
+But this is not a secret for anyone.
 
 
 ## How our invoice looks like

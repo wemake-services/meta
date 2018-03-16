@@ -24,6 +24,11 @@ So each task has an expressly declared price and every three days your [successf
 
 Basically, you have no limitation on how much you can earn, although it works both ways: if you show low performance, you get paid less than you could have been.
 
+Please, also take a note that you will receive only half of the money paid by the client.
+So, if your rate to the client is, for example, $100 - then you will receive $50.
+
+See how our [billing](/meta/rsdp/billing) works.
+
 ### How my initial hourly rate is calculated
 
 The first and most important thing we actually look at when calculating your rate is your open source projects contribution and your online presence that could introduce you better than just a self-description: your Stack Overflow activity, meetup talks, tech-related publications and so on.
