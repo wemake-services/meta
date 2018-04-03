@@ -1,6 +1,6 @@
-## How it is now?
+## How is it now?
 
-## How it should be?
+## How should it be?
 
 /estimate Xh
 /label ~bug
