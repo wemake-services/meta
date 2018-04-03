@@ -1,8 +1,6 @@
-## Subject
+## How it is now?
 
-### How it should be?
-
-### How it is now?
+## How it should be?
 
 /estimate Xh
 /label ~bug
