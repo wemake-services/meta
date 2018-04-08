@@ -9,7 +9,7 @@ We love Python and Elixir. We use JavaScript.
 
 ## Repeatable Software Development Process
 
-It is a home and the only source of truth for our [`Repeatable Software Development Process`](/meta/rsdp) (also knows as [`RSDP`](/meta/rsdp)).
+It is a home and the only source of truth for our [`Repeatable Software Development Process`](https://wemake.services/meta/rsdp) (also knows as [`RSDP`](https://wemake.services/meta/rsdp)).
 
 Here we document every possible event and action in our company.
 You can have a look at how we work.
