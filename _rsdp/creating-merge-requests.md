@@ -41,7 +41,7 @@ So, whenever you find yourself in a situation when you are completely stuck - cr
 ## Merge request heading
 
 Merge request heading consists of three main parts: conditional `WIP:`, `${ISSUE_NUMBER}`, explaining heading.
-You should only use `WIP:` when this merge request [is not ready to be merged yet](https://wemake.services/meta/rsdp/creating-merge-requests#when-to-create-a-merge-request).
+You should only use `WIP:` when this merge request [is not ready to be merged yet](/meta/rsdp/creating-merge-requests#when-to-create-a-merge-request).
 Then, you should place your issue number.
 Merge request heading must have a sane name, very close to the one used for the original issue.
 

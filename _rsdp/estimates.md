@@ -29,8 +29,12 @@ Here's a funny joke to illustrate the point:
 
 ![Joke about software estimation](https://pbs.twimg.com/media/DVSaNwJXUAE0cL4.jpg)
 
+On the other hand, we believe that every project needs a [deadline](/meta/rsdp/how-to-always-be-on-time).
+And that deadline is not created by some imaginary estimates, but by the
+real life and business needs.
+
 
 ## Finding out what you really need
 
 However, we can still help you.
-Let's start with [finding out what you really need](https://wemake.services/meta/rsdp/requirements-analysis).
+Let's start with [finding out what you really need](/meta/rsdp/requirements-analysis).

@@ -27,7 +27,7 @@ No one expects that you have the required skills to do that.
 So, we came up with the solution:
 
 - Just create a ticket in a free manner
-- Assign this ticket to the current architect (see [how to find you who is the architect](https://wemake.services/meta/rsdp/roles-and-responsibilities))
+- Assign this ticket to the current architect (see [how to find you who is the architect](/meta/rsdp/roles-and-responsibilities))
 
 Here's an example:
 ![Imgur](https://i.imgur.com/TXZFVoe.png)
@@ -48,4 +48,4 @@ This happens because our team is international and distributed.
 
 ## How we do it internally?
 
-We have created a [complete internal tutorial](https://wemake.services/meta/rsdp/creating-issues) about creating tickets.
+We have created a [complete internal tutorial](/meta/rsdp/creating-issues) about creating tickets.

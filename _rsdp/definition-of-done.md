@@ -21,15 +21,15 @@ A task is considered done **only when** the corresponding ticket is **closed**.
 
 ### Prerequisites
 
-- A task should be [created](https://wemake.services/meta/rsdp/creating-issues)
-- You should be assigned to the task before-hands. See ["How tasks are assigned"](https://wemake.services/meta/rsdp/how-tasks-are-assigned)
+- A task should be [created](/meta/rsdp/creating-issues)
+- You should be assigned to the task before-hands. See ["How tasks are assigned"](/meta/rsdp/how-tasks-are-assigned)
 - You have asked all the required questions to understand what you should do
 
 ### Steps to achieve it
 
 Since tasks are only closed by a merge request, it may require several steps:
 
-- You have created a new branch following [our standards](https://wemake.services/meta/rsdp/closing-issues)
+- You have created a new branch following [our standards](/meta/rsdp/closing-issues)
 - You have added some code to fix a bug or to implement some feature
 - You have added new tests to cover new functionality or regression tests to confirm that bug is fixed
 - You have added comments to illustrate your design decision in a source code

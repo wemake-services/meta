@@ -4,7 +4,7 @@ title: "Creating issues"
 ---
 
 All our work and communication happens on the project's issues.
-Since we only pay for [closed issues](https://wemake.services/meta/rsdp/closing-issues) it is very simple for all members of the project to understand: no one will do anything without an opened issue.
+Since we only pay for [closed issues](/meta/rsdp/closing-issues) it is very simple for all members of the project to understand: no one will do anything without an opened issue.
 Since you will not be paid for it.
 
 
@@ -61,4 +61,4 @@ TODO(@sobolevn)
 
 ## Further reading
 
-See [how to close issues](/meta/rsdp/clossing-issues).
+See [how to close issues](/meta/rsdp/closing-issues).

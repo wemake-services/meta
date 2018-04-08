@@ -9,7 +9,7 @@ We love Python and Elixir. We use JavaScript.
 
 ## Repeatable Software Development Process
 
-It is a home and the only source of truth for our [`Repeatable Software Development Process`](https://wemake.services/meta/rsdp) (also knows as [`RSDP`](https://wemake.services/meta/rsdp)).
+It is a home and the only source of truth for our [`Repeatable Software Development Process`](/meta/rsdp) (also knows as [`RSDP`](/meta/rsdp)).
 
 Here we document every possible event and action in our company.
 You can have a look at how we work.
@@ -46,3 +46,10 @@ We will be actually happy to know that. That's a situation when everyone wins to
 
 This is our internal tool, pull requests are not welcomed.
 But, we welcome any discussion, if you do have any questions or suggestions make sure to share it with us by [opening an issue](https://github.com/wemake-services/meta/issues/new).
+
+
+## License
+
+All contents are licensed under [`GNU General Public License v3.0`](https://choosealicense.com/licenses/gpl-3.0/). [Original license](https://github.com/wemake-services/meta/blob/master/LICENSE.md) belongs to [`wemake.services`](https://wemake.services) company.
+
+Read the limitations of this license before continuing.

@@ -39,7 +39,8 @@ You will have an access to the project since the first day.
 You will never lose an access to the project.
 
 Only **one** person from the client's side is allowed to access the project.
-It is done with strictly one purpose: to simplify communications inside the project.
+It is done with strictly one purpose: to simplify [communications](/meta/rsdp/communications)
+inside the project.
 
 You will need to register a new GitLab account or to provide an existing one.
 

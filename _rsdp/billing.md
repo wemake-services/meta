@@ -3,7 +3,7 @@ layout: process
 title: "Billing"
 ---
 
-We bill for the [closed](https://wemake.services/meta/rsdp/definition-of-done) tasks only.
+We bill for the [closed](/meta/rsdp/definition-of-done) tasks only.
 We bill our clients once a week. In our invoice, we include the closed tasks for the last week.
 
 If a client is not paying us for some reason in the agreed period of time - we stop all our development process for this client until the bill is paid.

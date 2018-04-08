@@ -3,7 +3,7 @@ layout: process
 title: "Requirements analysis"
 ---
 
-After you have understood that we [won't give any estimates](https://wemake.services/meta/rsdp/estimates), let's find out **what** you need and **when** you need it.
+After you have understood that we [won't give any estimates](/meta/rsdp/estimates), let's find out **what** you need and **when** you need it.
 
 Basically, you will need to answer some simple questions about:
 1. What is the product going to do?
@@ -109,7 +109,28 @@ Let's change the way we define them to make them measurable:
 
 ### Milestones
 
-TODO(@sobolevn)
+We also provide a list of milestones for the project.
+Milestones are some approximate points in
+time with some approximate functionality.
+It is really easy to understand how we are going to deliver results looking
+on this list.
+
+How milestones are defined? After we have all our requirements prioritized
+we can start working on the most important ones. While working on these
+tasks we start to understand what to do next. And when it is going to be ready.
+
+We also do not make any [estimates](/meta/rsdp/estimates/) here. Except for the next milestone.
+
+That's usually takes us around two weeks to create a
+working prototype with a proof of concept.
+Then we define next milestone's [deadline](/meta/rsdp/how-to-always-be-on-time/).
+We try to keep iterations as short as possible to get the feedback from users
+and clients as soon as we can. But we are not limited in making them equal as
+Scrum suggests. This allows us to plan our releases and features naturally.
+
+Please, keep in mind, that we can [drop some features](/meta/rsdp/how-to-always-be-on-time/#what-happens-when-we-feel-that-we-will-be-late)
+from the milestone if we understand that we are going to be late.
+Deadlines are never missed.
 
 
 ## How the process looks like

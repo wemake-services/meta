@@ -21,10 +21,10 @@ Please, make sure that your opinion is informative, weighed, and polite.
 ## Who make final decisions
 
 A decision can be made by a person who is responsible for the end result.
-In our team, this person is [an architect](https://wemake.services/meta/rsdp/roles-and-responsibilities#full-list-of-possible-actions).
+In our team, this person is [an architect](/meta/rsdp/roles-and-responsibilities#full-list-of-possible-actions).
 
 So, the only architect can make the final decision.
-When in doubt, [create a `WIP` merge request](https://wemake.services/meta/rsdp/creating-merge-requests#merge-request-heading) to ask your questions, so the architect can share his opinion.
+When in doubt, [create a `WIP` merge request](/meta/rsdp/creating-merge-requests#merge-request-heading) to ask your questions, so the architect can share his opinion.
 
 Then just create a link to this discussion somewhere in the project.
 

@@ -1,7 +1,7 @@
 <nav role="menu">
-  <a id="toc_link" href="#toc">Show "Table of Contents"</a>
+  <a id="toc_link" href="#toc">Table of Contents</a>
 
-  <div class="toc__component">
+  <div class="toc__component visible">
 
     <h4>Working with the client</h4>
     <ul>
@@ -27,7 +27,10 @@
         </a>
       </li>
       <li>
-        How to always be on time
+        <a role="menuitem" title="How to always be on time"
+           href="{{ '/rsdp/how-to-always-be-on-time' | prepend: site.baseurl }}">
+          How to always be on time
+        </a>
       </li>
       <li>
         <a role="menuitem" title="Access to the project"
@@ -90,6 +93,12 @@
         </a>
       </li>
       <li>
+        <a role="menuitem" title="Communications"
+           href="{{ '/rsdp/communications' | prepend: site.baseurl }}">
+          Communications
+        </a>
+      </li>
+      <li>
         <a role="menuitem" title="Creating issues"
            href="{{ '/rsdp/creating-issues' | prepend: site.baseurl }}">
           Creating issues
@@ -123,14 +132,8 @@
       </li>
       <li>
         <a role="menuitem" title="Making decisions"
-           href="{{ '/rsdp/making-decisions' | prepend: site.baseurl }}">
+           href="{{ '/rsdp/making-decision' | prepend: site.baseurl }}">
           Making decisions
-        </a>
-      </li>
-      <li>
-        <a role="menuitem" title="Asking questions"
-           href="{{ '/rsdp/asking-questions' | prepend: site.baseurl }}">
-          Asking questions
         </a>
       </li>
     </ul>

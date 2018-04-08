@@ -21,7 +21,7 @@ Things we took from `Scrum`:
 
 Things we took from `XDSD`:
 - Per-task payment approach
-- No informal communications
+- No informal [communications](/meta/rsdp/communications)
 - Initial rate calculation
 - Enforcing external auditions
 

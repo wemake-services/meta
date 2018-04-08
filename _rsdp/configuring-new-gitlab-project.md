@@ -28,7 +28,7 @@ Also, make sure that the source code contains `.gitlab-ci.yml`. If it does not, 
 
 ### Adding project roles
 
-Each project's `README` should contain the [current roles](https://wemake.services/meta/rsdp/roles-and-responsibilities) for this project.
+Each project's `README` should contain the [current roles](/meta/rsdp/roles-and-responsibilities) for this project.
 Who is the client?
 Who is the architect?
 
@@ -57,7 +57,7 @@ link="https://github.com/wemake-services/meta/tree/master/.gitlab"; rm -rf .gitl
 - Set `Do not allow users to remove git tags with git push`
 - Set `Check whether author is a GitLab user`
 - Set `Prevent committing secrets to Git`
-- Configure `Branch name` to follow [our format](https://wemake.services/meta/rsdp/closing-issues) `issue-\d+`
+- Configure `Branch name` to follow [our format](/meta/rsdp/closing-issues) `issue-\d+`
 
 ![Push rules](https://i.imgur.com/l9L6nYM.png)
 

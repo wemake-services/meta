@@ -6,7 +6,7 @@ title: "Job application"
 ## Who we are looking for
 
 1. You have some open-source contribution we can take a look at.
-2. You are interested to work with us — keeping in mind the specificity of our work process that you've made yourself familiar with by reading the ["Employees"](https://wemake.services/meta/rsdp/employees) part of the present handbook.
+2. You are interested to work with us — keeping in mind the specificity of our work process that you've made yourself familiar with by reading the ["Employees"](/meta/rsdp/employees) part of the present handbook.
 
 We are continuously open to hiring new software developers with expertise within our typical stack or close to it. So let's venture!
 

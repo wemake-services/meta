@@ -18,9 +18,9 @@ Work with us! Learn how you can [get a job](/meta/rsdp/job-application).
 
 ### Task-based payment approach
 
-We have adopted a not very common but still effective in its way compensation practice based on tasks [closed](https://wemake.services/meta/rsdp/closing-issues) by a person. When hiring, we agree on your hourly rate, and, when assigning a task to you, we set a price for it based on delivery time estimation and your fixed rate.
+We have adopted a not very common but still effective in its way compensation practice based on tasks [closed](/meta/rsdp/closing-issues) by a person. When hiring, we agree on your hourly rate, and, when assigning a task to you, we set a price for it based on delivery time estimation and your fixed rate.
 
-So each task has an expressly declared price and every three days your [successfully completed](https://wemake.services/meta/rsdp/definition-of-done) tasks are collected and paid for in bulk.
+So each task has an expressly declared price and every three days your [successfully completed](/meta/rsdp/definition-of-done) tasks are collected and paid for in bulk.
 
 Basically, you have no limitation on how much you can earn, although it works both ways: if you show low performance, you get paid less than you could have been.
 
@@ -52,9 +52,9 @@ But we do care of:
 
 It is perfectly possible, and you are very welcome to increase your hourly rate.
 
-The most important thing that helps us to estimate things like that is, basically, how much of superiors' time you save. By being capable to close complicated tickets on your own, without requesting the help of others, you decrease our expenses and we can pay you more.
+The most important thing that helps us to estimate things like that is, basically, how much of other people's time you save. By being capable to close complicated tickets on your own, without requesting the help of others, you decrease our expenses and we can pay you more.
 
-We also sort tasks into senior and middle ones. If you successfully tackle senior-level tasks without the help of higher level developers, after some number of payment rounds you get promoted. We are now hammering out metrics and a clear algorythm for that, which we show you once ready.
+If you successfully tackle tasks without the help of other developers, after some number of payment rounds you get promoted. We are now hammering out metrics and a clear algorithm for that, which we show you once ready.
 
 Each time you get promoted, the absolute value of promotion also grows.
 
@@ -68,7 +68,7 @@ You are welcome to leave clear to-dos for yourself and the one who will provide 
 
 ### If you got stuck
 
-If you find yourself stuck while delivering the task, but you are dedicated to delivering by yourself, you might first want to try to find the answer by following the XY problem pattern or check if your embarrassment is caused by the fact that task or project environment, such as documentation provided, does not contain some information that is essential for this particular problem, and simply turn the ticket back to us with a request of such information.
+If you find yourself stuck while delivering the task, but you are dedicated to delivering by yourself, you might first want to try to find the answer by following the [XY problem](https://en.wikipedia.org/wiki/XY_problem) pattern or check if your embarrassment is caused by the fact that task or project environment, such as documentation provided, does not contain some information that is essential for this particular problem, and simply turn the ticket back to us with a request of such information.
 
 If you were able to successfully tackle your problem, please fix the corresponding results in the documentation, or amend the project knowledge in some other suitable way, if relevant.
 
