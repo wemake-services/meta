@@ -20,6 +20,20 @@ So, all other users are `Developer`s. This table looks something like this:
 | Architect |Sobolev Nikita (@sobolevn)|
 
 
+## Client has responsibilities too
+
+Every person in the team has responsibilities. Person coming from the client
+has them too.
+
+Main responsibilities of the client are:
+
+1. Validate incoming invoices and pay them in time
+2. Answer questions that are asked during the development
+3. Pay other people to audit our code
+4. Review features that needs to be reviewed and provide feedback
+5. Notify us about changes in the [requirements](/meta/rsdp/requirements-analysis/)
+
+
 ## Full list of possible actions
 
 Should or can I ...?

@@ -63,6 +63,13 @@ nav {
   }
 }
 
+table {
+  th,
+  td {
+    padding: 0 5px;
+  }
+}
+
 .toc__component {
   transition: opacity 1s ease-out;
   opacity: 0;

@@ -9,8 +9,8 @@ on marketing and advertisement, it is impossible to release a project with some
 tardiness.
 
 There are also situations when you rely on some specific date such as:
-- holidays
-- events and conferences
+- holidays, events, and conferences
+- already made promises and announcements
 - deadlines defined by other people or government
 
 That's obvious, that these deadlines must be met.
