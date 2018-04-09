@@ -3,7 +3,7 @@ layout: process
 title: "Requirements analysis"
 ---
 
-After you have understood that we [won't give any estimates](/meta/rsdp/estimates), let's find out **what** you need and **when** you need it.
+After you have understood that we [won't give any estimates](/meta/rsdp/estimates), let's find out **what** you need and [**when**](/meta/rsdp/how-to-always-be-on-time) you need it.
 
 Basically, you will need to answer some simple questions about:
 1. What is the product going to do?
