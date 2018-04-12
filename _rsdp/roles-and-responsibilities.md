@@ -3,7 +3,8 @@ layout: process
 title: "Roles and responsibilities for the project"
 ---
 
-Each project has several required roles:
+Each project [has a team](/meta/rsdp/team-and-scaling).
+Each team has several required roles:
 
 | Role      | Description | Responsibilities |
 |-----------|:-----------:|:----------------:|
@@ -18,6 +19,24 @@ So, all other users are `Developer`s. This table looks something like this:
 |-----------|:-----------:|
 | Client    |Ivanov Ivan (@ivanov_ivan)|
 | Architect |Sobolev Nikita (@sobolevn)|
+| Developer |Olga Petrova (@awesomeola)|
+
+
+## What about managers?
+
+We also have a project manager on board. But responsibilities of the project
+manager in our team is not common.
+We believe that good project **does not work at all** since some point in time.
+Good project manager creates processes which do not require any interruptions.
+So, we try to automate as many regular processes as possible.
+
+Here's the full list of the responsibilities that each project manager has:
+
+- Billing: making sure that payments from the client are received, sending micro-payments to the team members
+- Working with client: providing statistics, answering questions, planning new features
+- Working with the architect: making sure that architect does not have any problems or questions
+- Working with business processes: finding bottlenecks, improving docs, generating new ideas
+- Fixing any problems that emerge unexpectedly
 
 
 ## Client has responsibilities too

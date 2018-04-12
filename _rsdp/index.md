@@ -8,7 +8,7 @@ permalink: /:collection
 
 Our process was not possible without work of other people.
 We would like to honor them:
-§
+
 ### Scrum [`§`](https://en.wikipedia.org/wiki/Scrum_(software_development))
 
 Things we took from `Scrum`:

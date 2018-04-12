@@ -7,6 +7,20 @@
 $padding-size: 50px;
 $padding-width: 15%;
 
+$font-size-big: 3.205rem;
+$font-size-medium: 2.018rem;
+$font-size-small: 1.355rem;
+$font-size-mobile-delta: 0.7rem;
+
+// Mixins:
+
+@mixin header-font($size) {
+  $delta: 0.2rem;
+
+  font-size: $size;
+  line-height: $size + $delta;
+}
+
 // General:
 
 * {
@@ -23,6 +37,18 @@ h1, h2, h3, h4, h5, h6 {
   a {
     text-decoration: none;
   }
+}
+
+h1 {
+  @include header-font($font-size-big);
+}
+
+h2 {
+  @include header-font($font-size-medium);
+}
+
+h3 {
+  @include header-font($font-size-small);
 }
 
 a {
@@ -91,17 +117,20 @@ table {
 // Responsive layout
 
 @media screen and (max-width: 640px) {
-  main {
+  main,
+  .comments__component {
     padding: $padding-size 5% 0 5%;
   }
 
   h1 {
-    font-size: 3.242rem;
-    line-height: 3.5rem;
+    @include header-font($font-size-big - $font-size-mobile-delta);
   }
 
   h2 {
-    font-size: 2.128rem;
-    line-height: 2.3rem;
+    @include header-font($font-size-medium - $font-size-mobile-delta);
+  }
+
+  h3 {
+    @include header-font($font-size-small - $font-size-mobile-delta + 0.2rem);
   }
 }
