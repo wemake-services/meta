@@ -17,14 +17,6 @@ Things we took from `Scrum`:
 - Constant communication with the client
 - User stories
 
-### XDSD [`§`](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html)
-
-Things we took from `XDSD`:
-- Per-task payment approach
-- No informal [communications](/meta/rsdp/communications)
-- Initial rate calculation
-- Enforcing external auditions
-
 ### XP [`§`](https://en.wikipedia.org/wiki/Extreme_programming)
 
 Things we took from `XP`:
@@ -33,6 +25,14 @@ Things we took from `XP`:
 - Strong coding standards
 - Continuous integration
 - Test-driven development
+
+### XDSD [`§`](http://www.yegor256.com/2014/04/17/how-xdsd-is-different.html)
+
+Things we took from `XDSD`:
+- Per-task payment approach
+- No informal [communications](/meta/rsdp/communications)
+- Initial rate calculation
+- Enforcing external auditions
 
 ### Getting real [`§`](https://basecamp.com/books/getting-real)
 

@@ -74,8 +74,3 @@ Each bug costs 1.000 rubles ([click here](http://www.countrycurrencyrates.com/en
 2. Something is not clear from the docs and the code itself (readability issues)
 3. Coding style issues (if there is no coding style in the project, then we use our own)
 4. Not following best-practices (defined by the documentation or the community)
-
-
-## I want an audit!
-
-Contact us: [`contact@wemake.services`](mailto:contact@wemake.services)
