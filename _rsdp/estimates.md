@@ -4,7 +4,6 @@ title: "Estimates"
 ---
 
 Some our clients start the conversation with the estimation request.
-
 Sometimes it looks something like this:
 
 > I have an idea about creating a chat-bot with natural language processing and pretty UX. How much would it cost me? And how many days it will take?
