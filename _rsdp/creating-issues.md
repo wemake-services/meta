@@ -26,6 +26,7 @@ Head to the next section to learn more.
 2. Each issue must have two roles: reporter and assignee, it does not matter if one person does cover two roles
 3. Each issue must contain the estimated time, without estimated time you will not get paid for completing this issue. Note that **only architect** can set and approve estimated time
 4. Each issue must have a single label (this is what is called a type)
+5. All issues should be [SMART](https://en.wikipedia.org/wiki/SMART_criteria)
 
 ### Bug
 

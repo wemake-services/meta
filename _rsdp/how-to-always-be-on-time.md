@@ -3,7 +3,7 @@ layout: process
 title: "How to always be on time"
 ---
 
-Each project must have a strict deadline.
+Each project **must have** a strict deadline.
 And some projects truly have it. When a lot of money is already spent
 on marketing and advertisement, it is impossible to release a project with some
 tardiness.

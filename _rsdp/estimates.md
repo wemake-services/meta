@@ -3,14 +3,13 @@ layout: process
 title: "Estimates"
 ---
 
-Everyone once was in a situation when you have to estimate something.
-Moreover, some people even start the conversation with the estimation request.
+Some our clients start the conversation with the estimation request.
 
 Sometimes it looks something like this:
 
 > I have an idea about creating a chat-bot with natural language processing and pretty UX. How much would it cost me? And how many days it will take?
 
-The problem is it is almost impossible to tell.
+The problem is it is almost impossible to give any estimates at this point.
 Companies that do it either:
 
 - Have done the exact same thing for the exact same client with the same development team several times in a row
@@ -29,12 +28,16 @@ Here's a funny joke to illustrate the point:
 
 ![Joke about software estimation](https://pbs.twimg.com/media/DVSaNwJXUAE0cL4.jpg)
 
+
+## Deadline is defined by real life
+
 On the other hand, we believe that every project needs a [deadline](/meta/rsdp/how-to-always-be-on-time).
 And that deadline is not created by some imaginary estimates, but by the
 real life and business needs.
 
+So, it is the client who tells **when** they need their project.
+
 
 ## Finding out what you really need
 
-However, we can still help you.
 Let's start with [finding out what you really need](/meta/rsdp/requirements-analysis).

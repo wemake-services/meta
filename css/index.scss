@@ -90,9 +90,13 @@ nav {
 }
 
 table {
+  tr {
+    border: 1px inset;
+  }
+
   th,
   td {
-    padding: 0 5px;
+    padding: 10px 5px;
   }
 }
 
