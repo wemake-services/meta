@@ -1,10 +1,10 @@
 ## What task are we going to solve?
 
-### What criteria should be met?
+## What criteria should be met?
 
-### What are the known options?
+## What are the known options?
 
-### Any known problems?
+## Any known problems?
 
 /estimate Xh
 /label ~research
