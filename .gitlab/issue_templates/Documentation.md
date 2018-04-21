@@ -1,8 +1,6 @@
-## Problem
+## What's wrong?
 
-### What's wrong?
-
-### Why is it a problem?
+## Why is it a problem?
 
 /estimate Xh
 /label ~documentation
