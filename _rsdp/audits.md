@@ -52,7 +52,7 @@ We only charge you for the found bugs. No bugs found == free audit.
 
 How it works:
 
-0. You invite us to your project (Github/Gitlab/Bitbucket/etc)
+0. You invite us to your project (GitHub/GitLab/BitBucket/etc)
 1. You allow us to create issues in your bug tracker
 2. We agree about [what bug is](/meta/rsdp/audits/#bug-definition)
 3. We create as many bugs as we can in a single day
@@ -64,13 +64,17 @@ And you are interested in receiving as many quality bug reports as possible.
 Why is it only one day?
 Because we don't want your development process to be interrupted.
 
-Time is fixed. Bug cost is fixed.
-It is a one day audit.
+Time is fixed. It is a one day audit.
+Bug cost is also fixed.
 Each bug costs 1.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/1000) to see the same in dollars).
+
+So, the final price is: `number_of_bugs * price_per_bug`
 
 ### Bug definition
 
-1. Bad design decisions
+1. Bad design [decisions](/meta/rsdp/making-decision/)
 2. Something is not clear from the docs and the code itself (readability issues)
 3. Coding style issues (if there is no coding style in the project, then we use our own)
 4. Not following best-practices (defined by the documentation or the community)
+5. General errors
+6. Not creating project's issues properly

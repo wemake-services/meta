@@ -35,7 +35,10 @@ Sometimes you can not make a decision because you don't even know what are the o
 To find out you will need to do a research.
 So, we have a specific issue label and issue template just for this type of actions.
 
-As the result, a documentation file should be created describing all the possible options, their drawbacks and strong points.
+As the result, a documentation file,
+which is called ["Architecture Design Record"](https://github.com/joelparkerhenderson/architecture_decision_record),
+should be created describing all the possible options,
+their drawbacks and strong points.
 
 Also, the final decision and the taken risks should be clear.
 These issues are paid the same as any other issues.
