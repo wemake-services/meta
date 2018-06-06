@@ -148,7 +148,13 @@ The process consists of several steps:
 
 ## Price
 
-We will guide you through a process of requirements analysis:
+We will guide you through a process of requirements analysis.
+There are two options:
 
-- within a fixed period of time (10 working days)
-- for a fixed price of 300.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/300000) to see the same in US dollars)
+| Scope          | Time            | Money          |
+|----------------|-----------------|----------------|
+| Small project  | 5 working days  | 150.000 rubles [convert to $](http://www.countrycurrencyrates.com/en/convert/RUB/USD/150000 |
+| Medium project | 10 working days | 300.000 rubles [convert to $](http://www.countrycurrencyrates.com/en/convert/RUB/USD/300000 |
+
+For large projects we will split into smaller ones and
+go through the requirements analysis process multiple times.

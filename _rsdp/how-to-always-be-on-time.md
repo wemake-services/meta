@@ -76,7 +76,7 @@ Dropping some low priority feature may not only save your project, but
 also, give it some extra bonuses.
 
 If the client still want this feature to be implemented - no problems,
-it will be done after the deadline is met and the project is successfully
+it will be done after the deadline is met and the product is successfully
 working in production and already earning some money (or reputation) for
 the client.
 
