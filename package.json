@@ -7,7 +7,7 @@
   "author": "sobolevn <mail@sobolevn.me>",
   "license": "MIT",
   "scripts": {
-    "test": "remark .gitlab/*/**.md _rsdp/*.md *.md -f"
+    "test": "remark -q -f .gitlab/*/**.md _rsdp/*.md *.md"
   },
   "remarkConfig": {
     "plugins": [

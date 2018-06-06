@@ -153,8 +153,8 @@ There are two options:
 
 | Scope          | Time            | Money          |
 |----------------|-----------------|----------------|
-| Small project  | 5 working days  | 150.000 rubles [convert to $](http://www.countrycurrencyrates.com/en/convert/RUB/USD/150000 |
-| Medium project | 10 working days | 300.000 rubles [convert to $](http://www.countrycurrencyrates.com/en/convert/RUB/USD/300000 |
+| Small project  | 5 working days  | 150.000 rubles [convert to $](http://www.countrycurrencyrates.com/en/convert/RUB/USD/150000) |
+| Medium project | 10 working days | 300.000 rubles [convert to $](http://www.countrycurrencyrates.com/en/convert/RUB/USD/300000) |
 
 For large projects we will split into smaller ones and
 go through the requirements analysis process multiple times.
