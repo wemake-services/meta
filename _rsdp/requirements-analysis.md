@@ -151,10 +151,11 @@ The process consists of several steps:
 We will guide you through a process of requirements analysis.
 There are two options:
 
-| Scope          | Time            | Money                                                                                          |
-|----------------|-----------------|------------------------------------------------------------------------------------------------|
+
+|      Scope     |       Time      |      Money     |
+|:--------------:|:---------------:|:--------------:|
 |  Small project |  5 working days | 150.000 rubles ([convert to $](http://www.countrycurrencyrates.com/en/convert/RUB/USD/150000)) |
 | Medium project | 10 working days | 300.000 rubles ([convert to $](http://www.countrycurrencyrates.com/en/convert/RUB/USD/300000)) |
 
-For large projects we will split into smaller ones and
+We will split large projects into smaller ones and
 go through the requirements analysis process multiple times.
