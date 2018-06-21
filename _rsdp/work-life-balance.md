@@ -1,4 +1,9 @@
-# Work-Life Balance
+---
+layout: process
+title: "Work-Life balance"
+---
+
+# Work-Life balance
 
 We work to live, not live to work.
 We are all humans. And we should behave like ones.
