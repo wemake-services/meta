@@ -4,8 +4,8 @@
 Please, make sure you have changed the topic and also
 described briefly what have you done. Thanks!
 
-This merge request will be closed, if formated badly.
-Make sure, that you have double checked how to create a merge request:
+This merge request will be closed if formated badly.
+Make sure you have double checked how to create a merge request:
 https://wemake.services/meta/rsdp/creating-merge-requests
 -->
 
@@ -16,7 +16,7 @@ I have done ...
 - [ ] Tests for the changes have been added
 - [ ] Docs have been added or updated
 - [ ] I have assigned my architect to review this merge request
-- [ ] You have checked how to create a [merge request](https://wemake.services/meta/rsdp/creating-merge-requests)
+- [ ] I have checked how to create a [merge request](https://wemake.services/meta/rsdp/creating-merge-requests)
 
 
 ## Issues
