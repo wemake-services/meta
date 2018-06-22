@@ -22,6 +22,6 @@ Consider this project and `RSDP` as early alpha. Please, feel free [to open an i
 
 ## License
 
-All contents are licensed under [`GNU General Public License v3.0`](https://choosealicense.com/licenses/gpl-3.0/). [Original license](https://github.com/wemake-services/meta/blob/master/LICENSE.md) belongs to [`wemake.services`](https://wemake.services) company.
+All contents are licensed under [`GNU General Public License v3.0`](https://choosealicense.com/licenses/gpl-3.0/). [Original license](https://github.com/wemake-services/meta/blob/master/LICENSE) belongs to [`wemake.services`](https://wemake.services) company.
 
 Read the limitations of this license before continuing.
