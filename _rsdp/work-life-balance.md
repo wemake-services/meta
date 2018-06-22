@@ -93,6 +93,6 @@ What does it bring to your work-life balance?
 Why are we doing so?
 
 Because it is profitable in the long run.
-We do not want to squash all juices out off.
+We do not want to squash all the juices out off you.
 We want you to be a happy and motivated person.
 We want you to love your work. And we want you to do it well!
