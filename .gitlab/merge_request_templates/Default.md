@@ -22,7 +22,7 @@ I have done ...
 ## Issues
 
 <!---
-Which issues this PR closes?
+Which issue this PR closes? It can close only one issue.
 Which issues this PR references?
 Please, specify all issues.
 Format is: Closes #X or Refs #Y
@@ -33,6 +33,7 @@ Docs: https://docs.gitlab.com/ee/user/project/issues/closing_issues.html#via-mer
 ## Time spent
 
 <!---
+You can skip this section if kira-bot is available for the project.
 This information is only required for statistics and analysis.
 But we need to know exactly how much time you have spent,
 please try to be as accurate as possible.
