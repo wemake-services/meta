@@ -22,10 +22,14 @@ We have adopted a not very common but still effective in its way compensation pr
 
 So each task has an expressly declared price and every three days your [successfully completed](/meta/rsdp/definition-of-done) tasks are collected and paid for in bulk.
 
-Basically, you have no limitation on how much you can earn, although it works both ways: if you show low performance, you get paid less than you could have been.
+Basically, you have no limitation on how much you can earn,
+although it works both ways: if you show low performance,
+you get paid less than you could have been.
 
-Please, also take a note that you will receive only half of the money paid by the client.
-So, if your rate to the client is, for example, $100 - then you will receive $50.
+Please, also take a note that you will receive only
+half of the money paid by the client.
+So, if your rate to the client is, for example,
+$100 - then you will receive $50.
 
 See how our [billing](/meta/rsdp/billing) works.
 
@@ -46,7 +50,7 @@ But we do care of:
 - your open source contribution;
 - your talks on conferences and meetups;
 - your presence and activity on StackOverflow;
-- your competency, and qualification.
+- your competency, and qualification with the [tools we use](/meta/rsdp/tech-stack).
 
 ### How can my hourly rate be changed
 
