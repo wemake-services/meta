@@ -2,6 +2,8 @@
 
 We are using [`BPMN`](https://wikipedia.org/wiki/BPMN) to visualize our processes.
 
+All diagrams are created using [`draw.io`](https://www.draw.io).
+
 
 ## Processes
 
