@@ -33,8 +33,8 @@ project the same way (or even better!) than we did it the last time.
 Why don't we design a nice-looking website to attract customers?
 Why do we expect our clients to spend several hours of their time reading our stuff?
 
-Because creating software is not easy! And if you don't have any time or
-will read through the guide on how to do it: you are **not**
+Because creating software is not easy! And if you don't have any time to
+read through the guide on how to do it: you are **not**
 our client.
 
 Any visual noise that distracts you from the content of this site must be removed.
@@ -50,7 +50,7 @@ learn new technology stack, and will be 2 times late.
 
 We won't give you any false promises.
 That's the reason why we don't give any [estimates](/meta/rsdp/estimates/) at all.
-We also won't lie about our stack or [team members](/meta/rsdp/team-and-scaling/).
+We also won't lie about our [stack](/meta/rsdp/tech-stack/) or [team members](/meta/rsdp/team-and-scaling/).
 
 Why? Because we just do not need to. We are free from [traditional sales chaos](/meta/rsdp/billing/).
 
