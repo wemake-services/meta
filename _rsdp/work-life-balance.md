@@ -42,7 +42,7 @@ but we do not enforce it.
 
 We also recommend working for 4-6 hours a day.
 Spending the rest time for your side projects, hobbies, family, and rest.
-We also not recommend working for more than 8 hours a day.
+We also do not recommend working for more than 8 hours a day.
 Even when a deadline is coming.
 Remember about the [Brooks Law](https://en.wikipedia.org/wiki/Brooks%27s_law).
 
@@ -66,13 +66,14 @@ This statistics is required to improve our workflow:
 
 - which code module was a blocker? So it could be rewritten to be more readable
 
-We also collect verbal feedback after each submitted task.
+We also collect written feedback after each submitted task.
 This feedback allows us to change something in the development process
 and improve the overall productivity.
 
 ### Automation
 
-Everything is automated. If something is not automated it should be automated.
+Everything is automated. 
+If something is not automated then it should be automated.
 What does it bring to your work-life balance?
 
 - you do not lose your time on a boring stuff
