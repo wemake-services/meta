@@ -26,7 +26,7 @@ So, all other users are `Developer`s. This table looks something like this:
 
 We also have a project manager on board. But responsibilities of the project
 manager in our team is not common.
-We believe that good project **does not work at all** since some point in time.
+We believe that good project manager **does not work at all** since some point in time.
 Good project manager creates processes which do not require any interruptions.
 So, we try to automate as many regular processes as possible.
 
