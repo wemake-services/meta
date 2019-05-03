@@ -20,16 +20,25 @@ Work with us! Learn how you can [get a job](/meta/rsdp/job-application).
 
 We have adopted a not very common but still effective in its way compensation practice based on tasks [closed](/meta/rsdp/closing-issues) by a person. When hiring, we agree on your hourly rate, and, when assigning a task to you, we set a price for it based on delivery time estimation and your fixed rate.
 
-So each task has an expressly declared price and every three days your [successfully completed](/meta/rsdp/definition-of-done) tasks are collected and paid for in bulk.
+So each task has an expressly declared price and every seven days your [successfully completed](/meta/rsdp/definition-of-done) tasks are collected and paid for in bulk. We work on automating this process at the moment. After we finish it it will be possible to get the money almost instantly.
 
 Basically, you have no limitation on how much you can earn,
 although it works both ways: if you show low performance,
 you get paid less than you could have been.
 
+### Payment formula
+
 Please, also take a note that you will receive only
 half of the money paid by the client.
 So, if your rate to the client is, for example,
-$100 - then you will receive $50.
+$100 - then you will receive $50 for completing the task.
+
+The other half (100%) is split between:
+
+- 20% is paid to issue's author (only paid to [developers and architects](/meta/rsdp/roles-and-responsibilities))
+- 20% is paid for each review (we can have one or two reviews)
+- 30% is collected as a fee for transactions / taxes / infrastructure
+- from 30% to 10% is our profit
 
 See how our [billing](/meta/rsdp/billing) works.
 
@@ -66,7 +75,7 @@ Each time you get promoted, the absolute value of promotion also grows.
 
 <!--- TODO(@sobolevn): embed draw.io process -->
 
-Summing up the whole thing. First, we agree on your rate. You then receive one task at a time and get the next once you have finished. If you find essentials gaps in the problem description, you update the status to 'Request more data', and you get assigned to another task.
+Summing up the whole thing. First, we agree on your rate. You then receive one task at a time and get the next once you have finished. If you find essentials gaps in the problem description, you update the status to 'documentation', and you get assigned to another task.
 
 You are welcome to leave clear to-dos for yourself and the one who will provide the missing pieces to let you deliver on that task later.
 

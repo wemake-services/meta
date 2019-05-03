@@ -29,6 +29,8 @@ We pay our developers as salaries only half of the money you pay us.
 We spend the other half on our internal needs: paying for bugs, reviews, servers, etc.
 And that's how we make money as a company. We also take a part of this money as a profit.
 
+See [our internal formula](/meta/rsdp/employees#payment-formula) if you are interested.
+
 But this is not a secret for anyone.
 
 
