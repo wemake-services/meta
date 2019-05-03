@@ -25,7 +25,9 @@ task_cost = task_estimated_hours * assignee_rate
 ## Adjustments
 
 We pay our developers as salaries only half of the money you pay us.
-That's how we make money as a company.
+
+We spend the other half on our internal needs: paying for bugs, reviews, servers, etc.
+And that's how we make money as a company. We also take a part of this money as a profit.
 
 But this is not a secret for anyone.
 
