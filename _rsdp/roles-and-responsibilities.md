@@ -66,12 +66,12 @@ Should or can I ...?
 |Estimating issues|❌|✓|❌|
 |Open "Bug" issue|✓|✓|✓|
 |Open "Feature" issue|✓|✓|✓|
-|Open "Documetation" issue|✓|✓|✓|
+|Open "Documentation" issue|✓|✓|✓|
 |Open "Research" issue|✓|✓|❌|
 |Close issues manually|❌|✓|❌|
 |Solve "Bug" issue|❌|✓|✓|
 |Solve "Feature" issue|❌|✓|✓|
-|Solve "Documetation" issue|❌|✓|✓|
+|Solve "Documentation" issue|❌|✓|✓|
 |Solve "Research" issue|❌|✓|✓|
 |Open merge request|❌|✓|✓|
 |Review merge request|✓|✓|✓|
