@@ -1,6 +1,6 @@
+<!---
 ## Checklist
 
-<!---
 Please, make sure you have changed the topic and also
 described briefly what have you done. Thanks!
 
@@ -9,12 +9,25 @@ Make sure you have double checked how to create a merge request:
 https://wemake.services/meta/rsdp/creating-merge-requests
 -->
 
-
 - [ ] This commits targets only one specific issue
 - [ ] Tests for the changes have been added
 - [ ] Docs have been added or updated
 - [ ] I have checked how to create a [merge request](https://wemake.services/meta/rsdp/creating-merge-requests)
 
+
+<!---
+## Work in progress
+
+Remove `wip` quick command from the body in case this merge request is 
+ready to be submitted. Leave it here otherwise.
+
+We need `wip` to indicate that something is not ready to be merged it.
+
+See: https://docs.gitlab.com/ee/user/project/merge_requests/work_in_progress_merge_requests.html
+-->
+
+
+/wip
 
 <!---
 ## Issues
