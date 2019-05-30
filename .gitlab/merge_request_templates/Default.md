@@ -64,10 +64,9 @@ Docs: https://docs.gitlab.com/ee/user/project/quick_actions.html
 
 /assign
 
-
+<!---
 ## Feedback
 
-<!---
 Optional.
 
 Did you encounter any other problems you want to share with us?
