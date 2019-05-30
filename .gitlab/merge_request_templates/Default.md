@@ -9,19 +9,16 @@ Make sure you have double checked how to create a merge request:
 https://wemake.services/meta/rsdp/creating-merge-requests
 -->
 
-I have done ...
 
 - [ ] This commits targets only one specific issue
-- [ ] The commit message follows our guidelines
 - [ ] Tests for the changes have been added
 - [ ] Docs have been added or updated
-- [ ] I have assigned my architect to review this merge request
 - [ ] I have checked how to create a [merge request](https://wemake.services/meta/rsdp/creating-merge-requests)
 
 
+<!---
 ## Issues
 
-<!---
 Which issue this PR closes? It can close only one issue.
 Which issues this PR references?
 Please, specify all issues.
@@ -30,9 +27,9 @@ Docs: https://docs.gitlab.com/ee/user/project/issues/closing_issues.html#via-mer
 -->
 
 
+<!---
 ## Time spent
 
-<!---
 You can skip this section if kira-bot is available for the project.
 This information is only required for statistics and analysis.
 But we need to know exactly how much time you have spent,
@@ -44,9 +41,9 @@ Docs: https://docs.gitlab.com/ee/workflow/time_tracking.html
 /spend Xh
 
 
+<!---
 ## Assignee
 
-<!---
 You need to assign your architect to review your merge request.
 Format: /assign @username
 Docs: https://docs.gitlab.com/ee/user/project/quick_actions.html
@@ -58,8 +55,24 @@ Docs: https://docs.gitlab.com/ee/user/project/quick_actions.html
 ## Feedback
 
 <!---
+Optional.
+
 Did you encounter any other problems you want to share with us?
-Optional. Feel free to remove this section if you don't have any feedback.
+Feel free to remove this section if you don't have any feedback.
+
+You can also leave here an indication of your happiness level.
+We track several emoji:
+
+- :smile:
+- :neutral_face:
+- :angry:
+- :pensive:
+
+Use `/award :emoji_name:` to tell us about your mood and project satisfaction.
+Read more here: https://wemake.services/meta/rsdp/work-life-balance/
+
+In case you are unhappy with something we will try hard to fix it.
+Since we believe in Happiness-Driven-Development.
 -->
 
 

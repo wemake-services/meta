@@ -2,16 +2,21 @@
 
 /estimate Xh
 /label ~feature
+/subscribe
 
 
 ## Technical details
 
+<!--
 Are there any technical details worth mentioning?
+-->
 
 
 ## Links
 
+<!--
 1. Link to other related Gitlab issues
+-->
 
 
 ## How to complete

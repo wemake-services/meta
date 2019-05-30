@@ -4,12 +4,15 @@
 
 /estimate Xh
 /label ~documentation
+/subscribe
 
 
 ## Links
 
+<!--
 1. Link to blocked issue
 2. Any other useful links
+-->
 
 
 ## How to complete
