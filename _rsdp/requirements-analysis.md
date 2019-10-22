@@ -57,7 +57,7 @@ We never cut off `must` features, we cut off `should` features only if there is 
 
 ### User stories
 
-"[User stories](https://en.wikipedia.org/wiki/User_story)" is a way to specify requirements without wasting much time and resources on the process. User story (in our interpretation) is a valid [`gherkin`](https://github.com/cucumber/cucumber/wiki/Gherkin) file, that will be later used for acceptance testing.
+"[User stories](https://en.wikipedia.org/wiki/User_story)" is a way to specify requirements without wasting much time and resources on the process. User story (in our interpretation) is a valid [`gherkin`](https://cucumber.io/docs/gherkin/) file, that will be later used for acceptance testing.
 
 Yes, we write requirements that later will be used as tests for the software we build.
 These files serve two goals: to specify user stories and to **verify** them later.
