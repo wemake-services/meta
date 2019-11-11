@@ -488,9 +488,9 @@ readdirp@^3.1.1:
   dependencies:
     picomatch "^2.0.4"
 
-remark-cli@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/remark-cli/-/remark-cli-7.0.0.tgz#ed12602a9ddd5475e375f76973314f04c1f9368c"
+remark-cli@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/remark-cli/-/remark-cli-7.0.1.tgz#2d19d77674e20ea20a3f8ae31694ac30fddb1f52"
   dependencies:
     markdown-extensions "^1.1.0"
     remark "^11.0.0"
