@@ -40,7 +40,7 @@ if you have some specific problems. They will be answered!
 
 Time and cost are fixed.
 It is a one day audit.
-It costs 30.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/30000) to see the same in dollars).
+It costs 50.000 rubles ([click here](http://www.countrycurrencyrates.com/en/convert/RUB/USD/50000) to see the same in dollars).
 
 
 ## Technical audit
