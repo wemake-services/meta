@@ -11,7 +11,7 @@ before_install:
   - nvm install
 
 install:
-  - bundle install && bundle update --bundler
+  - bundle install
   - yarn install
 
 script:
