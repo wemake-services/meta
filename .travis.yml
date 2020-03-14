@@ -2,13 +2,8 @@ sudo: false
 
 language: ruby
 
-cache:
-  bundler: true
-  directories:
-    - node_modules
-
 before_install:
-  - nvm install
+  - nvm install && nvm use
 
 install:
   - bundle install
