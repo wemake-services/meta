@@ -3,6 +3,7 @@ sudo: false
 language: ruby
 
 before_install:
+  - gem install bundler
   - nvm install && nvm use
 
 install:
