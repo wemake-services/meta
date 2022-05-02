@@ -21,4 +21,4 @@ Are there any technical details worth mentioning?
 
 ## How to complete
 
-Please, read below: [how to implement a feature](https://wemake.services/meta/rsdp/closing-issues#how-to-complete-a-feature).
+Please, read below: [how to implement a feature](https://wemake-services.github.io/meta/rsdp/closing-issues#how-to-complete-a-feature).

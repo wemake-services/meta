@@ -17,4 +17,4 @@
 
 ## How to complete
 
-Please, read below: [updating docs](https://wemake.services/meta/rsdp/how-tasks-are-assigned#i-can-not-find-any-information-in-any-of-these-sources).
+Please, read below: [updating docs](https://wemake-services.github.io/meta/rsdp/how-tasks-are-assigned#i-can-not-find-any-information-in-any-of-these-sources).

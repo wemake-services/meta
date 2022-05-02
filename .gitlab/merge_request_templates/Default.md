@@ -6,19 +6,19 @@ described briefly what have you done. Thanks!
 
 This merge request will be closed if formated badly.
 Make sure you have double checked how to create a merge request:
-https://wemake.services/meta/rsdp/creating-merge-requests
+https://wemake-services.github.io/meta/rsdp/creating-merge-requests
 -->
 
 - [ ] This commits targets only one specific issue
 - [ ] Tests for the changes have been added
 - [ ] Docs have been added or updated
-- [ ] I have checked how to create a [merge request](https://wemake.services/meta/rsdp/creating-merge-requests)
+- [ ] I have checked how to create a [merge request](https://wemake-services.github.io/meta/rsdp/creating-merge-requests)
 
 
 <!---
 ## Work in progress
 
-Remove `wip` quick command from the body in case this merge request is 
+Remove `wip` quick command from the body in case this merge request is
 ready to be submitted. Leave it here otherwise.
 
 We need `wip` to indicate that something is not ready to be merged it.
@@ -81,7 +81,7 @@ We track several emoji:
 - :pensive:
 
 Use `/award :emoji_name:` to tell us about your mood and project satisfaction.
-Read more here: https://wemake.services/meta/rsdp/work-life-balance/
+Read more here: https://wemake-services.github.io/meta/rsdp/work-life-balance/
 
 In case you are unhappy with something we will try hard to fix it.
 Since we believe in Happiness-Driven-Development.

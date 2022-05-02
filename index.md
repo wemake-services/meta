@@ -4,7 +4,7 @@ layout: default
 
 # Hello, we make services!
 
-[wemake.services](https://wemake.services) is a group of technology evangelists and simply those who love to write beautiful code. We are dedicated to deliver products of high quality basing on best practices, broad experience and a good portion of common sense. We focus on large, both public-sector and commercial projects with complicated infrastructure, and we care about what we do.
+[wemake.services](https://wemake-services.github.io) is a group of technology evangelists and simply those who love to write beautiful code. We are dedicated to deliver products of high quality basing on best practices, broad experience and a good portion of common sense. We focus on large, both public-sector and commercial projects with complicated infrastructure, and we care about what we do.
 
 We love Python and Elixir. We use JavaScript.
 
@@ -22,6 +22,6 @@ Consider this project and `RSDP` as early alpha. Please, feel free [to open an i
 
 ## License
 
-All contents are licensed under [`GNU General Public License v3.0`](https://choosealicense.com/licenses/gpl-3.0/). [Original license](https://github.com/wemake-services/meta/blob/master/LICENSE) belongs to [`wemake.services`](https://wemake.services) company.
+All contents are licensed under [`GNU General Public License v3.0`](https://choosealicense.com/licenses/gpl-3.0/). [Original license](https://github.com/wemake-services/meta/blob/master/LICENSE) belongs to [`wemake.services`](https://wemake-services.github.io) company.
 
 Read the limitations of this license before continuing.

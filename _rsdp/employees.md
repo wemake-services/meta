@@ -87,4 +87,4 @@ If you were able to successfully tackle your problem, please fix the correspondi
 
 ### Full description
 
-This page contains only a brief description of our internal development process. Are you interested in details? It is a big luck we have all [our processes explained in details](https://wemake.services/meta).
+This page contains only a brief description of our internal development process. Are you interested in details? It is a big luck we have all [our processes explained in details](https://wemake-services.github.io/meta).

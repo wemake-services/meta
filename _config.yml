@@ -8,7 +8,7 @@
 # Site settings
 title: wemake.services meta
 baseurl: /meta  # the subpath of your site, e.g. /blog
-url: https://wemake.services
+url: https://wemake-services.github.io
 
 collections:
   rsdp:
