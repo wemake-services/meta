@@ -16,4 +16,4 @@
 
 ## How to complete
 
-Please, read below: [making decisions](https://wemake-services.github.io/meta/rsdp/making-decisions).
+Please, read below: [making decisions](https://wemake-services.github.io/meta/rsdp/making-decision).
